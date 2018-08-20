@@ -57,9 +57,9 @@
         "XMP-iptcExt:AboutCvTerm":  [
                                         {
                                             "CvTermName":  "CV-Term Name 1 ",
-                                            "CvTermRefinedAbout":  "http://example.com/cv/refinements2/rec0102/codeX145",
-                                            "CvTermId":  "http://example.com/cv/about/rec0102/code987",
-                                            "CvId":  "http://example.com/cv/about/rec0102"
+                                            "CvTermRefinedAbout":  "http://example.com/cv/refinements2/test0102/codeX145",
+                                            "CvTermId":  "http://example.com/cv/about/test0102/code987",
+                                            "CvId":  "http://example.com/cv/about/test0102"
                                         }
                                     ],
         "XMP-iptcExt:DataOnScreen":  [
@@ -82,18 +82,18 @@
         "XMP-iptcExt:Dopesheet":  "This is the Dopesheet ",
         "XMP-iptcExt:DopesheetLink":  [
                                           {
-                                              "Link":  "http://example.com/dopesheets/rec0102",
-                                              "LinkQualifier":  "http://example.com/linkqualifier/rec0102"
+                                              "Link":  "http://example.com/dopesheets/test0102",
+                                              "LinkQualifier":  "http://example.com/linkqualifier/test0102"
                                           }
                                       ],
         "XMP-iptcExt:Episode":  [
                                     {
                                         "Number":  "EpR0101",
                                         "Name":  "Episode Name 1 ",
-                                        "Identifier":  "http://example.com/series/season/episode/rec0102"
+                                        "Identifier":  "http://example.com/series/season/episode/test0102"
                                     }
                                 ],
-        "XMP-iptcExt:ExternalMetadataLink":  "http://example.com/externalmetadata/rec0102)",
+        "XMP-iptcExt:ExternalMetadataLink":  "http://example.com/externalmetadata/test0102)",
         "XMP-iptcExt:OrganisationInImageName":  [
                                                     "Organisation Name 1 ",
                                                     "Organisation Name 2 ",
@@ -128,16 +128,16 @@
         "XMP-iptcExt:Genre":  [
                                   {
                                       "CvTermName":  "Genre CV-Term Name 1 ",
-                                      "CvTermRefinedAbout":  "http://example.com/cv/genrerefinements2/rec0102/codeY864",
-                                      "CvTermId":  "http://example.com/cv/genre/rec0102/code1369",
-                                      "CvId":  "http://example.com/cv/genre/rec0102"
+                                      "CvTermRefinedAbout":  "http://example.com/cv/genrerefinements2/test0102/codeY864",
+                                      "CvTermId":  "http://example.com/cv/genre/test0102/code1369",
+                                      "CvId":  "http://example.com/cv/genre/test0102"
                                   }
                               ],
         "XMP-photoshop:Headline":  "The Headline ",
         "XMP-dc:Subject":  [
-                               "Keyword1rec0102",
-                               "Keyword2rec0102",
-                               "Keyword3rec0102"
+                               "Keyword1test0102",
+                               "Keyword2test0102",
+                               "Keyword3test0102"
                            ],
         "XMP-dc:Language":  "en-GB ",
         "XMP-plus:Licensor":  [
@@ -253,15 +253,15 @@
                                                       "PersonName":  "Person Name 1 ",
                                                       "PersonDescription":  "Person Description 1 ",
                                                       "PersonId":  [
-                                                                       "http://wikidata.org/item/Q123456789/rec0102",
-                                                                       "http://freebase.com/m/987654321/rec0102"
+                                                                       "http://wikidata.org/item/Q123456789/test0102",
+                                                                       "http://freebase.com/m/987654321/test0102"
                                                                    ],
                                                       "PersonCharacteristic":  [
                                                                                    {
                                                                                        "CvTermName":  "Person Characteristic Name 1 ",
-                                                                                       "CvTermRefinedAbout":  "http://example.com/cv/refinements987/codeY765/rec0102",
-                                                                                       "CvTermId":  "http://example.com/cv/test99/code987/rec0102",
-                                                                                       "CvId":  "http://example.com/cv/test99/rec0102"
+                                                                                       "CvTermRefinedAbout":  "http://example.com/cv/refinements987/codeY765/test0102",
+                                                                                       "CvTermId":  "http://example.com/cv/test99/code987/test0102",
+                                                                                       "CvId":  "http://example.com/cv/test99/test0102"
                                                                                    }
                                                                                ]
                                                   }
@@ -270,12 +270,12 @@
                                         {
                                             "Name":  "Planning Ref Name 1 ",
                                             "Identifier":  "Planning Ref Id 1 ",
-                                            "Role":  "http://example.org/cv/vmh/role-contrib/codeA-rec0102"
+                                            "Role":  "http://example.org/cv/vmh/role-contrib/codeA-test0102"
                                         },
                                         {
                                             "Name":  "Planning Ref Name 2 ",
                                             "Identifier":  "Planning Ref Id 2 ",
-                                            "Role":  "http://example.org/cv/vmh/role-contrib/codeB-rec0102"
+                                            "Role":  "http://example.org/cv/vmh/role-contrib/codeB-test0102"
                                         }
                                     ],
         "XMP-plus:PropertyReleaseID":  [
@@ -295,7 +295,7 @@
                                        "RatingValue":  "RatingValue Id 1 ",
                                        "RatingScaleMaxValue":  "9",
                                        "RatingScaleMinValue":  "1",
-                                       "RatingSourceLink":  "http://example.com/ratings/rec0102",
+                                       "RatingSourceLink":  "http://example.com/ratings/test0102",
                                        "RatingRegion":  {
                                                             "LocationName":  "Name of Rating Location 1 ",
                                                             "CountryCode":  "R16",
@@ -312,7 +312,7 @@
                                                                            ],
                                                             "GPSLatitude":  "16,01.02N"
                                                         },
-                                       "RatingValueLogoLink":  "http://example.com/ratingsystem-logo/rec0102.jpg"
+                                       "RatingValueLogoLink":  "http://example.com/ratingsystem-logo/test0102.jpg"
                                    }
                                ],
         "XMP-iptcExt:RecDevice":  {
@@ -337,15 +337,15 @@
                                    ],
         "XMP-iptcExt:EmbdEncRightsExpr":  [
                                               {
-                                                  "RightsExprLangId":  "http://example.org/RELids/id4711/rec0102",
+                                                  "RightsExprLangId":  "http://example.org/RELids/id4711/test0102",
                                                   "RightsExprEncType":  "IANA Media Type of ERE ",
                                                   "EncRightsExpr":  "The Encoded Rights Expression "
                                               }
                                           ],
         "XMP-iptcExt:LinkedEncRightsExpr":  [
                                                 {
-                                                    "LinkedRightsExpr":  "http://example.org/linkedrightsexpression/id986/rec0102",
-                                                    "RightsExprLangId":  "http://example.org/RELids/id4712/rec0102",
+                                                    "LinkedRightsExpr":  "http://example.org/linkedrightsexpression/id986/test0102",
+                                                    "RightsExprLangId":  "http://example.org/RELids/id4712/test0102",
                                                     "RightsExprEncType":  "IANA Media Type of ERE "
                                                 }
                                             ],
@@ -360,18 +360,18 @@
                                    {
                                        "Number":  "SeR0101",
                                        "Name":  "Season Name 1 ",
-                                       "Identifier":  "http://example.com/series/season/rec0102"
+                                       "Identifier":  "http://example.com/series/season/test0102"
                                    }
                                ],
         "XMP-iptcExt:Series":  [
                                    {
-                                       "Identifier":  "http://example.com/series/rec0102",
+                                       "Identifier":  "http://example.com/series/test0102",
                                        "Name":  "Series Name 1 "
                                    }
                                ],
         "XMP-iptcExt:Snapshot":  [
                                      {
-                                         "Link":  "http://example.com/snapshots/vmhubrec0102.jpg",
+                                         "Link":  "http://example.com/snapshots/vmhubtest0102.jpg",
                                          "LinkQualifier":  [
                                                                "http://www.example.org/videosnapshotqual/frame1",
                                                                "http://www.example.org/videosnapshotqual/q3131"
@@ -426,8 +426,8 @@
         "XMP-iptcExt:Transcript":  "Transcript ",
         "XMP-iptcExt:TranscriptLink":  [
                                            {
-                                               "Link":  "http://example.com/transcripts/rec0102",
-                                               "LinkQualifier":  "http://example.com/linkqualifier/rec0102"
+                                               "Link":  "http://example.com/transcripts/test0102",
+                                               "LinkQualifier":  "http://example.com/linkqualifier/test0102"
                                            }
                                        ],
         "XMP-iptcExt:VideoBitRate":  "20170000",
@@ -443,9 +443,9 @@
         "XMP-iptcExt:WorkflowTag":  [
                                         {
                                             "CvTermName":  "CV-Term Name 1 ",
-                                            "CvTermRefinedAbout":  "http://example.com/cv/refinements2/rec0102/codeX145",
-                                            "CvTermId":  "http://example.com/cv/wflowtag/rec0102/code987",
-                                            "CvId":  "http://example.com/cv/wflowtag/rec0102"
+                                            "CvTermRefinedAbout":  "http://example.com/cv/refinements2/test0102/codeX145",
+                                            "CvTermId":  "http://example.com/cv/wflowtag/test0102/code987",
+                                            "CvId":  "http://example.com/cv/wflowtag/test0102"
                                         }
                                     ],
         "XMP-xmpMM:Pantry":  [

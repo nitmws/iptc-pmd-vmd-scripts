@@ -130,16 +130,16 @@ if ($valStr-ne "")
 # VMDp CV-Term About video
 $vmd.'XMP-iptcExt:AboutCvTerm' = @()
 $propObject = @{}
-$valStr = "http://example.com/cv/about/rec0102/code987"
+$valStr = "http://example.com/cv/about/test0102/code987"
 if ($valStr-ne "")
 { $propObject.'CvTermId' += $valStr }
 $valStr = "CV-Term Name 1 "
 if ($valStr-ne "")
 { $propObject.'CvTermName' += $valStr }
-$valStr = "http://example.com/cv/about/rec0102"
+$valStr = "http://example.com/cv/about/test0102"
 if ($valStr-ne "")
 { $propObject.'CvId' += $valStr }
-$valStr = "http://example.com/cv/refinements2/rec0102/codeX145"
+$valStr = "http://example.com/cv/refinements2/test0102/codeX145"
 if ($valStr-ne "")
 { $propObject.'CvTermRefinedAbout' += $valStr }
 $vmd.'XMP-iptcExt:AboutCvTerm' += $propObject
@@ -211,10 +211,10 @@ if ($valStr-ne "")
 # VMDp DopesheetLink
 $vmd.'XMP-iptcExt:DopesheetLink' = @()
 $propObject = @{}
-$valStr = "http://example.com/dopesheets/rec0102"
+$valStr = "http://example.com/dopesheets/test0102"
 if ($valStr-ne "")
 { $propObject.'Link' += $valStr }
-$valStr = "http://example.com/linkqualifier/rec0102"
+$valStr = "http://example.com/linkqualifier/test0102"
 if ($valStr-ne "")
 { $propObject.'LinkQualifier' += $valStr }
 $vmd.'XMP-iptcExt:DopesheetLink' += $propObject
@@ -245,7 +245,7 @@ $vmd.'XMP-xmpDM:Markers' += $propObject
 # VMDp Episode
 $vmd.'XMP-iptcExt:Episode' = @()
 $propObject = @{}
-$valStr = "http://example.com/series/season/episode/rec0102"
+$valStr = "http://example.com/series/season/episode/test0102"
 if ($valStr-ne "")
 { $propObject.'Identifier' += $valStr }
 $valStr = "Episode Name 1 "
@@ -257,7 +257,7 @@ if ($valStr-ne "")
 $vmd.'XMP-iptcExt:Episode' += $propObject
 
 # VMDp ExternalMetadataLink
-$valStr = "http://example.com/externalmetadata/rec0102)"
+$valStr = "http://example.com/externalmetadata/test0102)"
 # $valStr = ""
 if ($valStr-ne "")
 { $vmd.'XMP-iptcExt:ExternalMetadataLink' = $valStr }
@@ -338,16 +338,16 @@ $vmd.'XMP-xmpDM:VideoFrameSize' += $propObject
 # VMDp (generic) Genre 
 $vmd.'XMP-iptcExt:Genre' = @()
 $propObject = @{}
-$valStr = "http://example.com/cv/genre/rec0102/code1369"
+$valStr = "http://example.com/cv/genre/test0102/code1369"
 if ($valStr-ne "")
 { $propObject.'CvTermId' += $valStr }
 $valStr = "Genre CV-Term Name 1 "
 if ($valStr-ne "")
 { $propObject.'CvTermName' += $valStr }
-$valStr = "http://example.com/cv/genre/rec0102"
+$valStr = "http://example.com/cv/genre/test0102"
 if ($valStr-ne "")
 { $propObject.'CvId' += $valStr }
-$valStr = "http://example.com/cv/genrerefinements2/rec0102/codeY864"
+$valStr = "http://example.com/cv/genrerefinements2/test0102/codeY864"
 if ($valStr-ne "")
 { $propObject.'CvTermRefinedAbout' += $valStr }
 $vmd.'XMP-iptcExt:Genre' += $propObject
@@ -360,13 +360,13 @@ if ($valStr-ne "")
 
 # vMDp Keyword(s)
 $vmd.'XMP-dc:Subject' = @()
-$valStr = "Keyword1rec0102"
+$valStr = "Keyword1test0102"
 if ($valStr-ne "")
 { $vmd.'XMP-dc:Subject' += $valStr }
-$valStr = "Keyword2rec0102"
+$valStr = "Keyword2test0102"
 if ($valStr-ne "")
 { $vmd.'XMP-dc:Subject' += $valStr }
-$valStr = "Keyword3rec0102"
+$valStr = "Keyword3test0102"
 if ($valStr-ne "")
 { $vmd.'XMP-dc:Subject' += $valStr }
 
@@ -652,10 +652,10 @@ $valStr = "Person Name 1 "
 if ($valStr-ne "")
 { $pers.'PersonName' = $valStr}
 $pers.'PersonId' = @()
-$valStr = "http://wikidata.org/item/Q123456789/rec0102"
+$valStr = "http://wikidata.org/item/Q123456789/test0102"
 if ($valStr-ne "")
 { $pers.'PersonId' += $valStr}
-$valStr = "http://freebase.com/m/987654321/rec0102"
+$valStr = "http://freebase.com/m/987654321/test0102"
 if ($valStr-ne "")
 { $pers.'PersonId' += $valStr}
 $valStr = "Person Description 1 "
@@ -664,16 +664,16 @@ if ($valStr-ne "")
 
 $pers.'PersonCharacteristic' = @()
 $perschar = @{}
-$valStr = "http://example.com/cv/test99/code987/rec0102"
+$valStr = "http://example.com/cv/test99/code987/test0102"
 if ($valStr-ne "")
 { $perschar.'CvTermId' += $valStr }
 $valStr = "Person Characteristic Name 1 "
 if ($valStr-ne "")
 { $perschar.'CvTermName' += $valStr }
-$valStr = "http://example.com/cv/test99/rec0102"
+$valStr = "http://example.com/cv/test99/test0102"
 if ($valStr-ne "")
 { $perschar.'CvId' += $valStr }
-$valStr = "http://example.com/cv/refinements987/codeY765/rec0102"
+$valStr = "http://example.com/cv/refinements987/codeY765/test0102"
 if ($valStr-ne "")
 { $perschar.'CvTermRefinedAbout' += $valStr }
 $pers.'PersonCharacteristic' += $perschar
@@ -689,7 +689,7 @@ if ($valStr -ne "")
 $valStr = "Planning Ref Name 1 "
 if ($valStr -ne "")
 { $propObject.'Name' = $valStr}
-$valStr = "http://example.org/cv/vmh/role-contrib/codeA-rec0102"
+$valStr = "http://example.org/cv/vmh/role-contrib/codeA-test0102"
 if ($valStr -ne "")
 { $propObject.'Role' = $valStr}
 $vmd.'XMP-iptcExt:PlanningRef' += $propObject
@@ -701,7 +701,7 @@ if ($valStr -ne "")
 $valStr = "Planning Ref Name 2 "
 if ($valStr -ne "")
 { $propObject.'Name' = $valStr}
-$valStr = "http://example.org/cv/vmh/role-contrib/codeB-rec0102"
+$valStr = "http://example.org/cv/vmh/role-contrib/codeB-test0102"
 if ($valStr -ne "")
 { $propObject.'Role' = $valStr}
 $vmd.'XMP-iptcExt:PlanningRef' += $propObject
@@ -740,7 +740,7 @@ $propObject = @{}
 $valStr = "RatingValue Id 1 "
 if ($valStr -ne "")
 { $propObject.'RatingValue' = $valStr}
-$valStr = "http://example.com/ratings/rec0102"
+$valStr = "http://example.com/ratings/test0102"
 if ($valStr -ne "")
 { $propObject.'RatingSourceLink' = $valStr}
 $valStr = "1"
@@ -749,7 +749,7 @@ if ($valStr -ne "")
 $valStr = "9"
 if ($valStr -ne "")
 { $propObject.'RatingScaleMaxValue' = $valStr}
-$valStr = "http://example.com/ratingsystem-logo/rec0102.jpg"
+$valStr = "http://example.com/ratingsystem-logo/test0102.jpg"
 if ($valStr -ne "")
 { $propObject.'RatingValueLogoLink' = $valStr}
 
@@ -864,7 +864,7 @@ if ($valStr -ne "")
 $valStr = "IANA Media Type of ERE "
 if ($valStr -ne "")
 { $propObject.'RightsExprEncType' = $valStr }
-$valStr = "http://example.org/RELids/id4711/rec0102"
+$valStr = "http://example.org/RELids/id4711/test0102"
 if ($valStr -ne "")
 { $propObject.'RightsExprLangId' = $valStr }
 }
@@ -874,13 +874,13 @@ $vmd.'XMP-iptcExt:EmbdEncRightsExpr' += $propObject
 $vmd.'XMP-iptcExt:LinkedEncRightsExpr' = @()
 
 $propObject = @{}
-$valStr = "http://example.org/linkedrightsexpression/id986/rec0102"
+$valStr = "http://example.org/linkedrightsexpression/id986/test0102"
 if ($valStr -ne "")
 { $propObject.'LinkedRightsExpr' = $valStr
 $valStr = "IANA Media Type of ERE "
 if ($valStr -ne "")
 { $propObject.'RightsExprEncType' = $valStr }
-$valStr = "http://example.org/RELids/id4712/rec0102"
+$valStr = "http://example.org/RELids/id4712/test0102"
 if ($valStr -ne "")
 { $propObject.'RightsExprLangId' = $valStr }
 }
@@ -909,7 +909,7 @@ $vmd.'XMP-plus:CopyrightOwner' += $copyrightOwner
 # VMDp Season
 $vmd.'XMP-iptcExt:Season' = @()
 $propObject = @{}
-$valStr = "http://example.com/series/season/rec0102"
+$valStr = "http://example.com/series/season/test0102"
 if ($valStr-ne "")
 { $propObject.'Identifier' += $valStr }
 $valStr = "Season Name 1 "
@@ -923,7 +923,7 @@ $vmd.'XMP-iptcExt:Season' += $propObject
 # VMDp Series
 $vmd.'XMP-iptcExt:Series' = @()
 $propObject = @{}
-$valStr = "http://example.com/series/rec0102"
+$valStr = "http://example.com/series/test0102"
 if ($valStr-ne "")
 { $propObject.'Identifier' += $valStr }
 $valStr = "Series Name 1 "
@@ -935,7 +935,7 @@ $vmd.'XMP-iptcExt:Series' += $propObject
 $vmd.'XMP-iptcExt:Snapshot' = @()
 $snapshotlink = @{}
 
-$valStr = "http://example.com/snapshots/vmhubrec0102.jpg"
+$valStr = "http://example.com/snapshots/vmhubtest0102.jpg"
 if ($valStr-ne "")
 { $snapshotlink.'Link' = $valStr}
 $valStr = "Snapshot Link Promotion"
@@ -1068,10 +1068,10 @@ if ($valStr-ne "")
 # VMDp TranscriptLink
 $vmd.'XMP-iptcExt:TranscriptLink' = @()
 $propObject = @{}
-$valStr = "http://example.com/transcripts/rec0102"
+$valStr = "http://example.com/transcripts/test0102"
 if ($valStr-ne "")
 { $propObject.'Link' += $valStr }
-$valStr = "http://example.com/linkqualifier/rec0102"
+$valStr = "http://example.com/linkqualifier/test0102"
 if ($valStr-ne "")
 { $propObject.'LinkQualifier' += $valStr }
 $vmd.'XMP-iptcExt:TranscriptLink' += $propObject
@@ -1129,16 +1129,16 @@ if ($valStr-ne "")
 # VMDp WorkflowTag
 $vmd.'XMP-iptcExt:WorkflowTag' = @()
 $propObject = @{}
-$valStr = "http://example.com/cv/wflowtag/rec0102/code987"
+$valStr = "http://example.com/cv/wflowtag/test0102/code987"
 if ($valStr-ne "")
 { $propObject.'CvTermId' += $valStr }
 $valStr = "CV-Term Name 1 "
 if ($valStr-ne "")
 { $propObject.'CvTermName' += $valStr }
-$valStr = "http://example.com/cv/wflowtag/rec0102"
+$valStr = "http://example.com/cv/wflowtag/test0102"
 if ($valStr-ne "")
 { $propObject.'CvId' += $valStr }
-$valStr = "http://example.com/cv/refinements2/rec0102/codeX145"
+$valStr = "http://example.com/cv/refinements2/test0102/codeX145"
 if ($valStr-ne "")
 { $propObject.'CvTermRefinedAbout' += $valStr }
 $vmd.'XMP-iptcExt:WorkflowTag' += $propObject

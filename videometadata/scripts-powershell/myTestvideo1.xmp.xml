@@ -12,14 +12,14 @@
   <Iptc4xmpExt:AboutCvTerm>
    <rdf:Bag>
     <rdf:li rdf:parseType='Resource'>
-     <Iptc4xmpExt:CvId>http://example.com/cv/about/rec0102</Iptc4xmpExt:CvId>
-     <Iptc4xmpExt:CvTermId>http://example.com/cv/about/rec0102/code987</Iptc4xmpExt:CvTermId>
+     <Iptc4xmpExt:CvId>http://example.com/cv/about/test0102</Iptc4xmpExt:CvId>
+     <Iptc4xmpExt:CvTermId>http://example.com/cv/about/test0102/code987</Iptc4xmpExt:CvTermId>
      <Iptc4xmpExt:CvTermName>
       <rdf:Alt>
        <rdf:li xml:lang='x-default'>CV-Term Name 1 </rdf:li>
       </rdf:Alt>
      </Iptc4xmpExt:CvTermName>
-     <Iptc4xmpExt:CvTermRefinedAbout>http://example.com/cv/refinements2/rec0102/codeX145</Iptc4xmpExt:CvTermRefinedAbout>
+     <Iptc4xmpExt:CvTermRefinedAbout>http://example.com/cv/refinements2/test0102/codeX145</Iptc4xmpExt:CvTermRefinedAbout>
     </rdf:li>
    </rdf:Bag>
   </Iptc4xmpExt:AboutCvTerm>
@@ -189,8 +189,8 @@
   <Iptc4xmpExt:DopesheetLink>
    <rdf:Bag>
     <rdf:li rdf:parseType='Resource'>
-     <Iptc4xmpExt:Link>http://example.com/dopesheets/rec0102</Iptc4xmpExt:Link>
-     <Iptc4xmpExt:LinkQualifier>http://example.com/linkqualifier/rec0102</Iptc4xmpExt:LinkQualifier>
+     <Iptc4xmpExt:Link>http://example.com/dopesheets/test0102</Iptc4xmpExt:Link>
+     <Iptc4xmpExt:LinkQualifier>http://example.com/linkqualifier/test0102</Iptc4xmpExt:LinkQualifier>
     </rdf:li>
    </rdf:Bag>
   </Iptc4xmpExt:DopesheetLink>
@@ -199,12 +199,12 @@
     <rdf:li rdf:parseType='Resource'>
      <Iptc4xmpExt:EncRightsExpr>The Encoded Rights Expression </Iptc4xmpExt:EncRightsExpr>
      <Iptc4xmpExt:RightsExprEncType>IANA Media Type of ERE </Iptc4xmpExt:RightsExprEncType>
-     <Iptc4xmpExt:RightsExprLangId>http://example.org/RELids/id4711/rec0102</Iptc4xmpExt:RightsExprLangId>
+     <Iptc4xmpExt:RightsExprLangId>http://example.org/RELids/id4711/test0102</Iptc4xmpExt:RightsExprLangId>
     </rdf:li>
    </rdf:Bag>
   </Iptc4xmpExt:EmbdEncRightsExpr>
   <Iptc4xmpExt:Episode rdf:parseType='Resource'>
-   <Iptc4xmpExt:Identifier>http://example.com/series/season/episode/rec0102</Iptc4xmpExt:Identifier>
+   <Iptc4xmpExt:Identifier>http://example.com/series/season/episode/test0102</Iptc4xmpExt:Identifier>
    <Iptc4xmpExt:Name>Episode Name 1 </Iptc4xmpExt:Name>
    <Iptc4xmpExt:Number>EpR0101</Iptc4xmpExt:Number>
   </Iptc4xmpExt:Episode>
@@ -226,30 +226,30 @@
   </Iptc4xmpExt:EventExt>
   <Iptc4xmpExt:ExternalMetadataLink>
    <rdf:Bag>
-    <rdf:li>http://example.com/externalmetadata/rec0102)</rdf:li>
+    <rdf:li>http://example.com/externalmetadata/test0102)</rdf:li>
    </rdf:Bag>
   </Iptc4xmpExt:ExternalMetadataLink>
   <Iptc4xmpExt:FeedIdentifier>Feed Identifier </Iptc4xmpExt:FeedIdentifier>
   <Iptc4xmpExt:Genre>
    <rdf:Bag>
     <rdf:li rdf:parseType='Resource'>
-     <Iptc4xmpExt:CvId>http://example.com/cv/genre/rec0102</Iptc4xmpExt:CvId>
-     <Iptc4xmpExt:CvTermId>http://example.com/cv/genre/rec0102/code1369</Iptc4xmpExt:CvTermId>
+     <Iptc4xmpExt:CvId>http://example.com/cv/genre/test0102</Iptc4xmpExt:CvId>
+     <Iptc4xmpExt:CvTermId>http://example.com/cv/genre/test0102/code1369</Iptc4xmpExt:CvTermId>
      <Iptc4xmpExt:CvTermName>
       <rdf:Alt>
        <rdf:li xml:lang='x-default'>Genre CV-Term Name 1 </rdf:li>
       </rdf:Alt>
      </Iptc4xmpExt:CvTermName>
-     <Iptc4xmpExt:CvTermRefinedAbout>http://example.com/cv/genrerefinements2/rec0102/codeY864</Iptc4xmpExt:CvTermRefinedAbout>
+     <Iptc4xmpExt:CvTermRefinedAbout>http://example.com/cv/genrerefinements2/test0102/codeY864</Iptc4xmpExt:CvTermRefinedAbout>
     </rdf:li>
    </rdf:Bag>
   </Iptc4xmpExt:Genre>
   <Iptc4xmpExt:LinkedEncRightsExpr>
    <rdf:Bag>
     <rdf:li rdf:parseType='Resource'>
-     <Iptc4xmpExt:LinkedRightsExpr>http://example.org/linkedrightsexpression/id986/rec0102</Iptc4xmpExt:LinkedRightsExpr>
+     <Iptc4xmpExt:LinkedRightsExpr>http://example.org/linkedrightsexpression/id986/test0102</Iptc4xmpExt:LinkedRightsExpr>
      <Iptc4xmpExt:RightsExprEncType>IANA Media Type of ERE </Iptc4xmpExt:RightsExprEncType>
-     <Iptc4xmpExt:RightsExprLangId>http://example.org/RELids/id4712/rec0102</Iptc4xmpExt:RightsExprLangId>
+     <Iptc4xmpExt:RightsExprLangId>http://example.org/RELids/id4712/test0102</Iptc4xmpExt:RightsExprLangId>
     </rdf:li>
    </rdf:Bag>
   </Iptc4xmpExt:LinkedEncRightsExpr>
@@ -362,14 +362,14 @@
      <Iptc4xmpExt:PersonCharacteristic>
       <rdf:Bag>
        <rdf:li rdf:parseType='Resource'>
-        <Iptc4xmpExt:CvId>http://example.com/cv/test99/rec0102</Iptc4xmpExt:CvId>
-        <Iptc4xmpExt:CvTermId>http://example.com/cv/test99/code987/rec0102</Iptc4xmpExt:CvTermId>
+        <Iptc4xmpExt:CvId>http://example.com/cv/test99/test0102</Iptc4xmpExt:CvId>
+        <Iptc4xmpExt:CvTermId>http://example.com/cv/test99/code987/test0102</Iptc4xmpExt:CvTermId>
         <Iptc4xmpExt:CvTermName>
          <rdf:Alt>
           <rdf:li xml:lang='x-default'>Person Characteristic Name 1 </rdf:li>
          </rdf:Alt>
         </Iptc4xmpExt:CvTermName>
-        <Iptc4xmpExt:CvTermRefinedAbout>http://example.com/cv/refinements987/codeY765/rec0102</Iptc4xmpExt:CvTermRefinedAbout>
+        <Iptc4xmpExt:CvTermRefinedAbout>http://example.com/cv/refinements987/codeY765/test0102</Iptc4xmpExt:CvTermRefinedAbout>
        </rdf:li>
       </rdf:Bag>
      </Iptc4xmpExt:PersonCharacteristic>
@@ -380,8 +380,8 @@
      </Iptc4xmpExt:PersonDescription>
      <Iptc4xmpExt:PersonId>
       <rdf:Bag>
-       <rdf:li>http://wikidata.org/item/Q123456789/rec0102</rdf:li>
-       <rdf:li>http://freebase.com/m/987654321/rec0102</rdf:li>
+       <rdf:li>http://wikidata.org/item/Q123456789/test0102</rdf:li>
+       <rdf:li>http://freebase.com/m/987654321/test0102</rdf:li>
       </rdf:Bag>
      </Iptc4xmpExt:PersonId>
      <Iptc4xmpExt:PersonName>
@@ -402,7 +402,7 @@
      </Iptc4xmpExt:Name>
      <Iptc4xmpExt:Role>
       <rdf:Bag>
-       <rdf:li>http://example.org/cv/vmh/role-contrib/codeA-rec0102</rdf:li>
+       <rdf:li>http://example.org/cv/vmh/role-contrib/codeA-test0102</rdf:li>
       </rdf:Bag>
      </Iptc4xmpExt:Role>
      <xmp:Identifier>
@@ -419,7 +419,7 @@
      </Iptc4xmpExt:Name>
      <Iptc4xmpExt:Role>
       <rdf:Bag>
-       <rdf:li>http://example.org/cv/vmh/role-contrib/codeB-rec0102</rdf:li>
+       <rdf:li>http://example.org/cv/vmh/role-contrib/codeB-test0102</rdf:li>
       </rdf:Bag>
      </Iptc4xmpExt:Role>
      <xmp:Identifier>
@@ -470,9 +470,9 @@
      </Iptc4xmpExt:RatingRegion>
      <Iptc4xmpExt:RatingScaleMaxValue>9</Iptc4xmpExt:RatingScaleMaxValue>
      <Iptc4xmpExt:RatingScaleMinValue>1</Iptc4xmpExt:RatingScaleMinValue>
-     <Iptc4xmpExt:RatingSourceLink>http://example.com/ratings/rec0102</Iptc4xmpExt:RatingSourceLink>
+     <Iptc4xmpExt:RatingSourceLink>http://example.com/ratings/test0102</Iptc4xmpExt:RatingSourceLink>
      <Iptc4xmpExt:RatingValue>RatingValue Id 1 </Iptc4xmpExt:RatingValue>
-     <Iptc4xmpExt:RatingValueLogoLink>http://example.com/ratingsystem-logo/rec0102.jpg</Iptc4xmpExt:RatingValueLogoLink>
+     <Iptc4xmpExt:RatingValueLogoLink>http://example.com/ratingsystem-logo/test0102.jpg</Iptc4xmpExt:RatingValueLogoLink>
     </rdf:li>
    </rdf:Bag>
   </Iptc4xmpExt:Rating>
@@ -499,12 +499,12 @@
   </Iptc4xmpExt:RegistryId>
   <Iptc4xmpExt:ReleaseReady>True</Iptc4xmpExt:ReleaseReady>
   <Iptc4xmpExt:Season rdf:parseType='Resource'>
-   <Iptc4xmpExt:Identifier>http://example.com/series/season/rec0102</Iptc4xmpExt:Identifier>
+   <Iptc4xmpExt:Identifier>http://example.com/series/season/test0102</Iptc4xmpExt:Identifier>
    <Iptc4xmpExt:Name>Season Name 1 </Iptc4xmpExt:Name>
    <Iptc4xmpExt:Number>SeR0101</Iptc4xmpExt:Number>
   </Iptc4xmpExt:Season>
   <Iptc4xmpExt:Series rdf:parseType='Resource'>
-   <Iptc4xmpExt:Identifier>http://example.com/series/rec0102</Iptc4xmpExt:Identifier>
+   <Iptc4xmpExt:Identifier>http://example.com/series/test0102</Iptc4xmpExt:Identifier>
    <Iptc4xmpExt:Name>Series Name 1 </Iptc4xmpExt:Name>
   </Iptc4xmpExt:Series>
   <Iptc4xmpExt:SnapshotLink>
@@ -512,7 +512,7 @@
     <rdf:li rdf:parseType='Resource'>
      <Iptc4xmpExt:HeightPixels>2160</Iptc4xmpExt:HeightPixels>
      <Iptc4xmpExt:ImageRole>Snapshot Link Promotion</Iptc4xmpExt:ImageRole>
-     <Iptc4xmpExt:Link>http://example.com/snapshots/vmhubrec0102.jpg</Iptc4xmpExt:Link>
+     <Iptc4xmpExt:Link>http://example.com/snapshots/vmhubtest0102.jpg</Iptc4xmpExt:Link>
      <Iptc4xmpExt:LinkQualifier>
       <rdf:Bag>
        <rdf:li>http://www.example.org/videosnapshotqual/frame1</rdf:li>
@@ -564,8 +564,8 @@
   <Iptc4xmpExt:TranscriptLink>
    <rdf:Bag>
     <rdf:li rdf:parseType='Resource'>
-     <Iptc4xmpExt:Link>http://example.com/transcripts/rec0102</Iptc4xmpExt:Link>
-     <Iptc4xmpExt:LinkQualifier>http://example.com/linkqualifier/rec0102</Iptc4xmpExt:LinkQualifier>
+     <Iptc4xmpExt:Link>http://example.com/transcripts/test0102</Iptc4xmpExt:Link>
+     <Iptc4xmpExt:LinkQualifier>http://example.com/linkqualifier/test0102</Iptc4xmpExt:LinkQualifier>
     </rdf:li>
    </rdf:Bag>
   </Iptc4xmpExt:TranscriptLink>
@@ -587,14 +587,14 @@
   </Iptc4xmpExt:VideoShotType>
   <Iptc4xmpExt:VisualColour>colour</Iptc4xmpExt:VisualColour>
   <Iptc4xmpExt:WorkflowTag rdf:parseType='Resource'>
-   <Iptc4xmpExt:CvId>http://example.com/cv/wflowtag/rec0102</Iptc4xmpExt:CvId>
-   <Iptc4xmpExt:CvTermId>http://example.com/cv/wflowtag/rec0102/code987</Iptc4xmpExt:CvTermId>
+   <Iptc4xmpExt:CvId>http://example.com/cv/wflowtag/test0102</Iptc4xmpExt:CvId>
+   <Iptc4xmpExt:CvTermId>http://example.com/cv/wflowtag/test0102/code987</Iptc4xmpExt:CvTermId>
    <Iptc4xmpExt:CvTermName>
     <rdf:Alt>
      <rdf:li xml:lang='x-default'>CV-Term Name 1 </rdf:li>
     </rdf:Alt>
    </Iptc4xmpExt:CvTermName>
-   <Iptc4xmpExt:CvTermRefinedAbout>http://example.com/cv/refinements2/rec0102/codeX145</Iptc4xmpExt:CvTermRefinedAbout>
+   <Iptc4xmpExt:CvTermRefinedAbout>http://example.com/cv/refinements2/test0102/codeX145</Iptc4xmpExt:CvTermRefinedAbout>
   </Iptc4xmpExt:WorkflowTag>
   <Iptc4xmpExt:audioBitRate>2018000</Iptc4xmpExt:audioBitRate>
   <Iptc4xmpExt:audioBitRateMode>variable</Iptc4xmpExt:audioBitRateMode>
@@ -641,9 +641,9 @@
   </dc:rights>
   <dc:subject>
    <rdf:Bag>
-    <rdf:li>Keyword1rec0102</rdf:li>
-    <rdf:li>Keyword2rec0102</rdf:li>
-    <rdf:li>Keyword3rec0102</rdf:li>
+    <rdf:li>Keyword1test0102</rdf:li>
+    <rdf:li>Keyword2test0102</rdf:li>
+    <rdf:li>Keyword3test0102</rdf:li>
    </rdf:Bag>
   </dc:subject>
   <dc:title>
