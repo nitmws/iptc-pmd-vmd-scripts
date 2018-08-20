@@ -1,0 +1,552 @@
+[
+    {
+        "XMP-iptcExt:TranscriptLink": [
+            {
+                "LinkQualifier": "Qualifier -  value [1]",
+                "Link": "Link -  value [1]"
+            },
+            {
+                "LinkQualifier": "Qualifier -  value [2]",
+                "Link": "Link -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:ContainerFormat": {
+            "Name": "Name -  value",
+            "Identifier": "Identifier -  value"
+        },
+        "XMP-xmpDM:FileDataRate": 2.3,
+        "XMP-iptcExt:StreamReady#": "Stream-ready",
+        "XMP-iptcExt:ProductInImage": [
+            {
+                "ProductName": "Name -  value [1]",
+                "ProductDescription": "Description -  value [1]",
+                "ProductGTIN": "GTIN -  value [1]"
+            },
+            {
+                "ProductName": "Name -  value [2]",
+                "ProductDescription": "Description -  value [2]",
+                "ProductGTIN": "GTIN -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:Rating": [
+            {
+                "RatingScaleMinValue": "Rating Scale Min Value -  value [1]",
+                "RatingRegion": [
+                    {
+                        "LocationId": "Identifier -  value [1]",
+                        "Name": "Name -  value [1]",
+                        "WorldRegion": "World region name -  value [1]",
+                        "CountryCode": "Country ISO code -  value [1]",
+                        "CountryName": "Country name -  value [1]",
+                        "City": "City name -  value [1]",
+                        "Sublocation": "Sublocation name -  value [1]",
+                        "ProvinceState": "State/Province name -  value [1]"
+                    },
+                    {
+                        "LocationId": "Identifier -  value [2]",
+                        "Name": "Name -  value [2]",
+                        "WorldRegion": "World region name -  value [2]",
+                        "CountryCode": "Country ISO code -  value [2]",
+                        "CountryName": "Country name -  value [2]",
+                        "City": "City name -  value [2]",
+                        "Sublocation": "Sublocation name -  value [2]",
+                        "ProvinceState": "State/Province name -  value [2]"
+                    }
+                ],
+                "RatingValueLogoLink": "Rating Value Logo -  value [1]",
+                "RatingValue": "Rating Value -  value [1]",
+                "RatingScaleMaxValue": "Rating Scale Max Value -  value [1]",
+                "RatingSourceLink": "Rating Source Link -  value [1]"
+            },
+            {
+                "RatingScaleMinValue": "Rating Scale Min Value -  value [2]",
+                "RatingRegion": [
+                    {
+                        "LocationId": "Identifier -  value [1]",
+                        "Name": "Name -  value [1]",
+                        "WorldRegion": "World region name -  value [1]",
+                        "CountryCode": "Country ISO code -  value [1]",
+                        "CountryName": "Country name -  value [1]",
+                        "City": "City name -  value [1]",
+                        "Sublocation": "Sublocation name -  value [1]",
+                        "ProvinceState": "State/Province name -  value [1]"
+                    },
+                    {
+                        "LocationId": "Identifier -  value [2]",
+                        "Name": "Name -  value [2]",
+                        "WorldRegion": "World region name -  value [2]",
+                        "CountryCode": "Country ISO code -  value [2]",
+                        "CountryName": "Country name -  value [2]",
+                        "City": "City name -  value [2]",
+                        "Sublocation": "Sublocation name -  value [2]",
+                        "ProvinceState": "State/Province name -  value [2]"
+                    }
+                ],
+                "RatingValueLogoLink": "Rating Value Logo -  value [2]",
+                "RatingValue": "Rating Value -  value [2]",
+                "RatingScaleMaxValue": "Rating Scale Max Value -  value [2]",
+                "RatingSourceLink": "Rating Source Link -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:Creator": [
+            {
+                "Role": "Role -  value [1]",
+                "Name": "Name -  value [1]",
+                "Identifier": "Identifier -  value [1]"
+            },
+            {
+                "Role": "Role -  value [2]",
+                "Name": "Name -  value [2]",
+                "Identifier": "Identifier -  value [2]"
+            }
+        ],
+        "XMP-xmpDM:AudioCompressor": "MP3",
+        "XMP-iptcExt:VideoDisplayAspectRatio": 2.3,
+        "XMP-iptcExt:FeedIdentifier": "Feed Identifier",
+        "XMP-iptcExt:ArtworkOrObject": [
+            {
+                "AODateCreated": "2018:08:14 18:08:14+00:00",
+                "AOCircaDateCreated": "Circa Date Created -  value [1]",
+                "AOStylePeriod": [
+                    "Style Period -  value 1  [1]",
+                    "Style Period -  value 2 [1]"
+                ],
+                "AOCurrentCopyrightOwnerId": "Current Copyright Owner ID -  value [1]",
+                "AOContentDescription": "Content Description -  value [1]",
+                "AOSourceInvURL": "Source Inventory URL -  value [1]",
+                "AOCurrentCopyrightOwnerName": "Current Copyright Owner Name -  value [1]",
+                "AOSource": "Source -  value [1]",
+                "AOCurrentLicensorName": "Current Licensor Name -  value [1]",
+                "AOCreatorId": [
+                    "Creator ID -  value 1  [1]",
+                    "Creator ID -  value 2 [1]"
+                ],
+                "AOCurrentLicensorId": "Current Licensor ID -  value [1]",
+                "AOSourceInvNo": "Source Inventory Number -  value [1]",
+                "AOCreator": [
+                    "Creator -  value 1  [1]",
+                    "Creator -  value 2 [1]"
+                ],
+                "AOTitle": "Title -  value [1]",
+                "AOCopyrightNotice": "Copyright Notice -  value [1]",
+                "AOPhysicalDescription": "Physical Description -  value [1]",
+                "AOContributionDescription": "Contribution Description -  value [1]"
+            },
+            {
+                "AODateCreated": "2018:08:14 18:08:14+00:00",
+                "AOCircaDateCreated": "Circa Date Created -  value [2]",
+                "AOStylePeriod": [
+                    "Style Period -  value 1  [2]",
+                    "Style Period -  value 2 [2]"
+                ],
+                "AOCurrentCopyrightOwnerId": "Current Copyright Owner ID -  value [2]",
+                "AOContentDescription": "Content Description -  value [2]",
+                "AOSourceInvURL": "Source Inventory URL -  value [2]",
+                "AOCurrentCopyrightOwnerName": "Current Copyright Owner Name -  value [2]",
+                "AOSource": "Source -  value [2]",
+                "AOCurrentLicensorName": "Current Licensor Name -  value [2]",
+                "AOCreatorId": [
+                    "Creator ID -  value 1  [2]",
+                    "Creator ID -  value 2 [2]"
+                ],
+                "AOCurrentLicensorId": "Current Licensor ID -  value [2]",
+                "AOSourceInvNo": "Source Inventory Number -  value [2]",
+                "AOCreator": [
+                    "Creator -  value 1  [2]",
+                    "Creator -  value 2 [2]"
+                ],
+                "AOTitle": "Title -  value [2]",
+                "AOCopyrightNotice": "Copyright Notice -  value [2]",
+                "AOPhysicalDescription": "Physical Description -  value [2]",
+                "AOContributionDescription": "Contribution Description -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:Genre": {
+            "CvId": "CV-Term CV ID -  value",
+            "CvTermId": "CV-Term ID -  value",
+            "CvTermName": "CV-Term name -  value",
+            "CvTermRefinedAbout": "Refined \u00b4aboutness\u00b4 of the CV-Term -  value"
+        },
+        "XMP-iptcExt:OrganisationInImageCode": [
+            {
+                "Name": "Name -  value [1]",
+                "Identifier": "Identifier -  value [1]"
+            },
+            {
+                "Name": "Name -  value [2]",
+                "Identifier": "Identifier -  value [2]"
+            }
+        ],
+        "XMP-xmpDM:VideoFrameSize": {
+            "Unit": "Measure Unit -  value",
+            "W": 2.3,
+            "H": 2.3
+        },
+        "XMP-plus:CopyrightOwner": [
+            {
+                "Role": "Role -  value [1]",
+                "Name": "Name -  value [1]",
+                "Identifier": "Identifier -  value [1]"
+            },
+            {
+                "Role": "Role -  value [2]",
+                "Name": "Name -  value [2]",
+                "Identifier": "Identifier -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:ExternalMetadataLink": [
+            "External Metadata URL - value 1",
+            "External Metadata URL value 2"
+        ],
+        "XMP-dc:Language": "Language Version",
+        "XMP-plus:ModelReleaseStatus": "Not Applicable",
+        "XMP-iptcExt:ArtworkStylePeriod": "Style Period",
+        "XMP-xmpDM:Duration": {
+            "Value": 3,
+            "Scale": 2.3
+        },
+        "XMP-dc:Subject": [
+            "Keyword - value 1",
+            "Keyword value 2"
+        ],
+        "XMP-iptcExt:VideoBitRate": 3,
+        "XMP-plus:ModelReleaseID": [
+            "Model Release Document - value 1",
+            "Model Release Document value 2"
+        ],
+        "XMP-iptcExt:VideoShotType": [
+            {
+                "Name": "Name -  value [1]",
+                "Identifier": "Identifier -  value [1]"
+            },
+            {
+                "Name": "Name -  value [2]",
+                "Identifier": "Identifier -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:ShownEvent": [
+            {
+                "Name": "Name -  value [1]",
+                "Identifier": "Identifier -  value [1]"
+            },
+            {
+                "Name": "Name -  value [2]",
+                "Identifier": "Identifier -  value [2]"
+            }
+        ],
+        "XMP-xmpDM:VideoPixelAspectRatio": 2.3,
+        "XMP-iptcExt:SnapshotLink": [
+            {
+                "HeightPixels": "Image Height -  value [1]",
+                "ImageRole": "Image Role -  value [1]",
+                "VideoTime": "Used Video Frame -  value [1]",
+                "LinkQualifier": "Image Qualifier -  value [1]",
+                "WidthPixels": "Image Width -  value [1]",
+                "Format": "Media Type -  value [1]",
+                "Link": "Image Link -  value [1]"
+            },
+            {
+                "HeightPixels": "Image Height -  value [2]",
+                "ImageRole": "Image Role -  value [2]",
+                "VideoTime": "Used Video Frame -  value [2]",
+                "LinkQualifier": "Image Qualifier -  value [2]",
+                "WidthPixels": "Image Width -  value [2]",
+                "Format": "Media Type -  value [2]",
+                "Link": "Image Link -  value [2]"
+            }
+        ],
+        "XMP-xmpDM:AudioSampleRate": 3,
+        "XMP-iptcExt:AudioBitsPerSample": 3,
+        "XMP-iptcExt:PersonHeard": [
+            {
+                "Name": "Name -  value [1]",
+                "Identifier": "Identifier -  value [1]"
+            },
+            {
+                "Name": "Name -  value [2]",
+                "Identifier": "Identifier -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:ReleaseReady": "Ready for Release",
+        "XMP-iptcExt:LocationShown": [
+            {
+                "LocationId": "Identifier -  value [1]",
+                "Name": "Name -  value [1]",
+                "WorldRegion": "World region name -  value [1]",
+                "CountryCode": "Country ISO code -  value [1]",
+                "CountryName": "Country name -  value [1]",
+                "City": "City name -  value [1]",
+                "Sublocation": "Sublocation name -  value [1]",
+                "ProvinceState": "State/Province name -  value [1]"
+            },
+            {
+                "LocationId": "Identifier -  value [2]",
+                "Name": "Name -  value [2]",
+                "WorldRegion": "World region name -  value [2]",
+                "CountryCode": "Country ISO code -  value [2]",
+                "CountryName": "Country name -  value [2]",
+                "City": "City name -  value [2]",
+                "Sublocation": "Sublocation name -  value [2]",
+                "ProvinceState": "State/Province name -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:DataOnScreen": [
+            {
+                "X": "Rectangle, upper left X -  value [1]",
+                "W": "Rectangle, horizontal size -  value [1]",
+                "RegionText": "Text -  value [1]",
+                "Unit": "Measure Type -  value [1]",
+                "H": "Rectangle, vertical size -  value [1]",
+                "Y": "Rectangle, upper left Y -  value [1]"
+            },
+            {
+                "X": "Rectangle, upper left X -  value [2]",
+                "W": "Rectangle, horizontal size -  value [2]",
+                "RegionText": "Text -  value [2]",
+                "Unit": "Measure Type -  value [2]",
+                "H": "Rectangle, vertical size -  value [2]",
+                "Y": "Rectangle, upper left Y -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:SupplyChainSource": [
+            {
+                "Name": "Name -  value [1]",
+                "Identifier": "Identifier -  value [1]"
+            },
+            {
+                "Name": "Name -  value [2]",
+                "Identifier": "Identifier -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:AboutCvTerm": {
+            "CvId": "CV-Term CV ID -  value",
+            "CvTermId": "CV-Term ID -  value",
+            "CvTermName": "CV-Term name -  value",
+            "CvTermRefinedAbout": "Refined \u00b4aboutness\u00b4 of the CV-Term -  value"
+        },
+        "XMP-iptcExt:CopyrightYear": 3,
+        "XMP-xmpDM:AudioChannelType#": "Audio Channel Layout",
+        "XMP-iptcExt:PersonInImageWDetails": [
+            {
+                "PersonName": "Name -  value [1]",
+                "PersonId": "Identifier -  value [1]",
+                "PersonDescription": "Description -  value [1]",
+                "PersonCharacteristic": [
+                    {
+                        "CvId": "CV-Term CV ID -  value [1]",
+                        "CvTermId": "CV-Term ID -  value [1]",
+                        "CvTermName": "CV-Term name -  value [1]",
+                        "CvTermRefinedAbout": "Refined \u00b4aboutness\u00b4 of the CV-Term -  value [1]"
+                    },
+                    {
+                        "CvId": "CV-Term CV ID -  value [2]",
+                        "CvTermId": "CV-Term ID -  value [2]",
+                        "CvTermName": "CV-Term name -  value [2]",
+                        "CvTermRefinedAbout": "Refined \u00b4aboutness\u00b4 of the CV-Term -  value [2]"
+                    }
+                ]
+            },
+            {
+                "PersonName": "Name -  value [2]",
+                "PersonId": "Identifier -  value [2]",
+                "PersonDescription": "Description -  value [2]",
+                "PersonCharacteristic": [
+                    {
+                        "CvId": "CV-Term CV ID -  value [1]",
+                        "CvTermId": "CV-Term ID -  value [1]",
+                        "CvTermName": "CV-Term name -  value [1]",
+                        "CvTermRefinedAbout": "Refined \u00b4aboutness\u00b4 of the CV-Term -  value [1]"
+                    },
+                    {
+                        "CvId": "CV-Term CV ID -  value [2]",
+                        "CvTermId": "CV-Term ID -  value [2]",
+                        "CvTermName": "CV-Term name -  value [2]",
+                        "CvTermRefinedAbout": "Refined \u00b4aboutness\u00b4 of the CV-Term -  value [2]"
+                    }
+                ]
+            }
+        ],
+        "XMP-iptcExt:Headline": "Headline ",
+        "XMP-iptcExt:Episode": {
+            "Number": "Number -  value",
+            "Name": "Name -  value",
+            "Identifier": "Identifier -  value"
+        },
+        "XMP-plus:ImageSupplier": {
+            "ImageSupplierName": "Name -  value",
+            "ImageSupplierID": "Identifier -  value"
+        },
+        "XMP-xmpDM:VideoCompressor": "H264",
+        "XMP-iptcExt:RecDevice": {
+            "OwnersDeviceId": "Owner\u00b4s Device ID -  value",
+            "Manufacturer": "Manufacturer -  value",
+            "AttLensDescription": "Attached Lens Description -  value",
+            "ModelName": "Model Name -  value",
+            "SerialNumber": "Serial Number -  value"
+        },
+        "XMP-plus:Licensor": [
+            {
+                "LicensorID": "Identifier -  value [1]",
+                "LicensorName": "Name -  value [1]"
+            },
+            {
+                "LicensorID": "Identifier -  value [2]",
+                "LicensorName": "Name -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:VideoStreamsCount": 3,
+        "XMP-iptcExt:RegistryId": [
+            {
+                "RegOrgId": "Registry Identifier -  value [1]",
+                "RegItemId": "Asset Identifier -  value [1]",
+                "RegEntryRole": "Role -  value [1]"
+            },
+            {
+                "RegOrgId": "Registry Identifier -  value [2]",
+                "RegItemId": "Asset Identifier -  value [2]",
+                "RegEntryRole": "Role -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:TemporalCoverage": {
+            "TempCoverageTo": "2018:08:14 18:08:14+00:00",
+            "TempCoverageFrom": "2018:08:14 18:08:14+00:00"
+        },
+        "XMP-iptcExt:Season": {
+            "Number": "Number -  value",
+            "Name": "Name -  value",
+            "Identifier": "Identifier -  value"
+        },
+        "XMP-xmpDM:ReleaseDate": "2018:08:14 18:08:14+00:00",
+        "XMP-iptcExt:Transcript": "Transcript",
+        "XMP-iptcExt:WorkflowTag": {
+            "CvId": "CV-Term CV ID -  value",
+            "CvTermId": "CV-Term ID -  value",
+            "CvTermName": "CV-Term name -  value",
+            "CvTermRefinedAbout": "Refined \u00b4aboutness\u00b4 of the CV-Term -  value"
+        },
+        "XMP-iptcExt:CircaDateCreated": "Circa Date Created",
+        "Sourcefile": "*",
+        "XMP-xmpMM:VersionID": "Video Version",
+        "XMP-tiff:Orientation#": "Orientation",
+        "XMP-iptcExt:StorylineIdentifier": [
+            "Storyline Identifier - value 1",
+            "Storyline Identifier value 2"
+        ],
+        "XMP-plus:PropertyReleaseID": [
+            "Property Release Document - value 1",
+            "Property Release Document value 2"
+        ],
+        "XMP-iptcExt:PublicationEvent": {
+            "Identifier": "Publication Event Identifier -  value",
+            "Name": "Publication Event Name -  value",
+            "Date": "2018:08:14 18:08:14+00:00"
+        },
+        "XMP-iptcExt:VideoBitRateMode#": "Video Bitrate Type",
+        "XMP-iptcExt:Series": {
+            "Name": "Series name -  value",
+            "Identifier": "Series identifier -  value"
+        },
+        "XMP-photoshop:Credit": "Credit Line",
+        "XMP-iptcExt:PlanningRef": [
+            {
+                "Role": "Role -  value [1]",
+                "Name": "Name -  value [1]",
+                "Identifier": "Identifier -  value [1]"
+            },
+            {
+                "Role": "Role -  value [2]",
+                "Name": "Name -  value [2]",
+                "Identifier": "Identifier -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:AudioBitRateMode#": "Audio Bitrate Type",
+        "XMP-plus:PropertyReleaseStatus": "Not Applicable",
+        "XMP-dc:Description": "Description",
+        "XMP-photoshop:DateCreated": "2018:08:14 18:08:14+00:00",
+        "XMP-xmpDM:VideoFieldOrder#": "Signal Format",
+        "XMP-xmp:ModifyDate": "2018:08:14 18:08:14+00:00",
+        "XMP-iptcExt:VideoEncodingProfile": "Video Profile",
+        "XMP-iptcExt:AudioBitRate": 3,
+        "XMP-dc:Rights": "Copyright Notice ",
+        "XMP-iptcExt:OrganisationInImageName": [
+            {
+                "Name": "Name -  value [1]",
+                "Identifier": "Identifier -  value [1]"
+            },
+            {
+                "Name": "Name -  value [2]",
+                "Identifier": "Identifier -  value [2]"
+            }
+        ],
+        "XMP-xmpDM:VideoFrameRate": 2.3,
+        "XMP-dc:Title": "Title",
+        "XMP-iptcExt:LinkedEncRightsExpr": [
+            {
+                "RightsExprLangId": "Rights Expression Language ID -  value [1]",
+                "LinkedRightsExpr": "Link to Encoded Rights Expression -  value [1]",
+                "RightsExprEncType": "Encoding type -  value [1]"
+            },
+            {
+                "RightsExprLangId": "Rights Expression Language ID -  value [2]",
+                "LinkedRightsExpr": "Link to Encoded Rights Expression -  value [2]",
+                "RightsExprEncType": "Encoding type -  value [2]"
+            }
+        ],
+        "XMP-xmpMM:RenditionClass": "Video Rendition",
+        "XMP-iptcExt:AudioChannelCount": 3,
+        "XMP-iptcExt:Dopesheet": "Dopesheet",
+        "XMP-dc:Identifier": "Video Identifier",
+        "XMP-iptcExt:VisualColor#": "Visual Colour",
+        "XMP-iptcExt:EmbdEncRightsExpr": [
+            {
+                "RightsExprLangId": "Rights Expression Language ID -  value [1]",
+                "RightsExprEncType": "Encoding type -  value [1]",
+                "EncRightsExpr": "Encoded Rights Expression -  value [1]"
+            },
+            {
+                "RightsExprLangId": "Rights Expression Language ID -  value [2]",
+                "RightsExprEncType": "Encoding type -  value [2]",
+                "EncRightsExpr": "Encoded Rights Expression -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:LocationCreated": [
+            {
+                "LocationId": "Identifier -  value [1]",
+                "Name": "Name -  value [1]",
+                "WorldRegion": "World region name -  value [1]",
+                "CountryCode": "Country ISO code -  value [1]",
+                "CountryName": "Country name -  value [1]",
+                "City": "City name -  value [1]",
+                "Sublocation": "Sublocation name -  value [1]",
+                "ProvinceState": "State/Province name -  value [1]"
+            },
+            {
+                "LocationId": "Identifier -  value [2]",
+                "Name": "Name -  value [2]",
+                "WorldRegion": "World region name -  value [2]",
+                "CountryCode": "Country ISO code -  value [2]",
+                "CountryName": "Country name -  value [2]",
+                "City": "City name -  value [2]",
+                "Sublocation": "Sublocation name -  value [2]",
+                "ProvinceState": "State/Province name -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:DopesheetLink": {
+            "LinkQualifier": "Qualifier -  value",
+            "Link": "Link -  value"
+        },
+        "XMP-iptcExt:Contributor": [
+            {
+                "Role": "Role -  value [1]",
+                "Name": "Name -  value [1]",
+                "Identifier": "Identifier -  value [1]"
+            },
+            {
+                "Role": "Role -  value [2]",
+                "Name": "Name -  value [2]",
+                "Identifier": "Identifier -  value [2]"
+            }
+        ],
+        "XMP-dc:Format": "Media Type"
+    }
+]
