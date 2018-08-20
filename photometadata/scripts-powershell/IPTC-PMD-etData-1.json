@@ -1,0 +1,312 @@
+﻿[
+    {
+        "SourceFile":  "*",
+        "IFD0:Artist":  "Creator1 ",
+        "IPTC:By-line":  "Creator1 ",
+        "XMP-dc:Creator":  [
+                               "Creator1 ",
+                               "Creator2 "
+                           ],
+        "XMP-plus:ImageCreator":  [
+                                      {
+                                          "ImageCreatorID":  "Image Creator Id 1 ",
+                                          "ImageCreatorName":  "Image Creator Name 1 "
+                                      },
+                                      {
+                                          "ImageCreatorID":  "Image Creator Id 2 ",
+                                          "ImageCreatorName":  "Image Creator Name 2 "
+                                      }
+                                  ],
+        "IPTC:By-lineTitle":  "Creator\u0027s Job Title  ",
+        "XMP-photoshop:AuthorsPosition":  "Creator\u0027s Job Title  ",
+        "XMP-iptcCore:CreatorContactInfo":  {
+                                                "CiUrlWork":  "http://www.Creators.CI/WebAddress/test2018a",
+                                                "CiAdrCtry":  "Creator\u0027s CI: Country ",
+                                                "CiEmailWork":  "Creator\u0027s CI: Email@1, Email@2 ",
+                                                "CiAdrExtadr":  "Creator\u0027s CI: Address, line 1 ",
+                                                "CiAdrRegion":  "Creator\u0027s CI: State/Province ",
+                                                "CiAdrPcode":  "Creator\u0027s CI: Postcode ",
+                                                "CiTelWork":  "Creator\u0027s CI: Phone # 1, Phone # 2 ",
+                                                "CiAdrCity":  "Creator\u0027s CI: City "
+                                            },
+        "IFD0:Copyright":  "Copyright (Notice) 2017.1 IPTC - www.iptc.org  ",
+        "IPTC:CopyrightNotice":  "Copyright (Notice) 2017.1 IPTC - www.iptc.org  ",
+        "XMP-dc:Rights":  "Copyright (Notice) 2017.1 IPTC - www.iptc.org  ",
+        "XMP-plus:CopyrightOwner":  [
+                                        {
+                                            "CopyrightOwnerID":  "Copyright Owner Id 1 ",
+                                            "CopyrightOwnerName":  "Copyright Owner Name 1 "
+                                        },
+                                        {
+                                            "CopyrightOwnerID":  "Copyright Owner Id 2 ",
+                                            "CopyrightOwnerName":  "Copyright Owner Name 2 "
+                                        }
+                                    ],
+        "XMP-plus:Licensor":  [
+                                  {
+                                      "LicensorPostalCode":  "Licensor Postcode 1 ",
+                                      "LicensorCity":  "Licensor City 1 ",
+                                      "LicensorRegion":  "Licensor Region 1 ",
+                                      "LicensorCountry":  "Licensor Country 1 ",
+                                      "LicensorStreetAddress":  "Licensor Street Addr 1 ",
+                                      "LicensorURL":  "Licensor URL 1 ",
+                                      "LicensorTelephone1":  "Licensor Phone1 1 ",
+                                      "LicensorTelephone2":  "Licensor Phone2 1 ",
+                                      "LicensorExtendedAddress":  "Licensor Ext Addr 1 ",
+                                      "LicensorID":  "Licensor ID 1 ",
+                                      "LicensorName":  "Licensor Name 1 ",
+                                      "LicensorEmail":  "Licensor Email 1 "
+                                  },
+                                  {
+                                      "LicensorPostalCode":  "Licensor Postcode 2 ",
+                                      "LicensorCity":  "Licensor City 2 ",
+                                      "LicensorRegion":  "Licensor Region 2 ",
+                                      "LicensorCountry":  "Licensor Country 2 ",
+                                      "LicensorStreetAddress":  "Licensor Street Addr 2 ",
+                                      "LicensorURL":  "Licensor URL 2 ",
+                                      "LicensorTelephone1":  "Licensor Phone1 2 ",
+                                      "LicensorTelephone2":  "Licensor Phone2 2 ",
+                                      "LicensorExtendedAddress":  "Licensor Ext Addr 2 ",
+                                      "LicensorID":  "Licensor ID 2 ",
+                                      "LicensorName":  "Licensor Name 2 ",
+                                      "LicensorEmail":  "Licensor Email 2 "
+                                  }
+                              ],
+        "XMP-xmpRights:WebStatement":  "http://www.WebStatementOfRights.org/2017.1",
+        "XMP-xmpRights:UsageTerms":  "Rights Usage Termns ",
+        "IPTC:Source":  "Source ",
+        "XMP-photoshop:Source":  "Source ",
+        "IPTC:Credit":  "Credit Line ",
+        "XMP-photoshop:Credit":  "Credit Line ",
+        "XMP-iptcExt:EmbdEncRightsExpr":  [
+                                              {
+                                                  "RightsExprLangId":  "http://example.org/RELids/id4711/test2018a",
+                                                  "RightsExprEncType":  "IANA Media Type of ERE ",
+                                                  "EncRightsExpr":  "The Encoded Rights Expression "
+                                              }
+                                          ],
+        "XMP-iptcExt:LinkedEncRightsExpr":  [
+                                                {
+                                                    "LinkedRightsExpr":  "http://example.org/linkedrightsexpression/id986/test2018a",
+                                                    "RightsExprLangId":  "http://example.org/RELids/id4712/test2018a",
+                                                    "RightsExprEncType":  "IANA Media Type of ERE "
+                                                }
+                                            ],
+        "IPTC:Headline":  "The Headline ",
+        "XMP-photoshop:Headline":  "The Headline ",
+        "EXIF:ImageDescription":  "The description aka caption ",
+        "IPTC:Caption-Abstract":  "The description aka caption ",
+        "XMP-dc:Description":  "The description aka caption ",
+        "IPTC:Writer-Editor":  "Description Writer ",
+        "XMP-photoshop:CaptionWriter":  "Description Writer ",
+        "IPTC:Keywords":  [
+                              "Keyword1test2018a",
+                              "Keyword2test2018a",
+                              "Keyword3test2018a"
+                          ],
+        "XMP-dc:Subject":  [
+                               "Keyword1test2018a",
+                               "Keyword2test2018a",
+                               "Keyword3test2018a"
+                           ],
+        "IPTC:ObjectAttributeReference":  "A Genre ",
+        "XMP-iptcCore:IntellectualGenre":  "A Genre ",
+        "IPTC:SubjectReference":  [
+                                      "IPTC:1test2018a",
+                                      "IPTC:2test2018a",
+                                      "IPTC:3test2018a"
+                                  ],
+        "XMP-iptcCore:SubjectCode":  [
+                                         "1test2018a",
+                                         "2test2018a",
+                                         "3test2018a"
+                                     ],
+        "XMP-iptcCore:Scene":  [
+                                   "IPTC-Scene-Code1 ",
+                                   "IPTC-Scene-Code2 "
+                               ],
+        "XMP-iptcExt:Event":  "An Event ",
+        "XMP-iptcExt:OrganisationInImageName":  [
+                                                    "Organisation Name 1 ",
+                                                    "Organisation Name 2 ",
+                                                    "Organisation Name 3 "
+                                                ],
+        "XMP-iptcExt:OrganisationInImageCode":  [
+                                                    "Organisation Code 1 ",
+                                                    "Organisation Code 2 ",
+                                                    "Organisation Code 3 "
+                                                ],
+        "XMP-iptcExt:AboutCvTerm":  [
+                                        {
+                                            "CvTermName":  "CV-Term Name 1 ",
+                                            "CvTermRefinedAbout":  "http://example.com/cv/refinements2/test2018a/codeX145",
+                                            "CvTermId":  "http://example.com/cv/about/test2018a/code987",
+                                            "CvId":  "http://example.com/cv/about/test2018a"
+                                        }
+                                    ],
+        "XMP-iptcExt:Genre":  [
+                                  {
+                                      "CvTermName":  "Genre CV-Term Name 1 ",
+                                      "CvTermRefinedAbout":  "http://example.com/cv/genrerefinements2/test2018a/codeY864",
+                                      "CvTermId":  "http://example.com/cv/genre/test2018a/code1369",
+                                      "CvId":  "http://example.com/cv/genre/test2018a"
+                                  }
+                              ],
+        "XMP-xmp:Rating":  "1.0",
+        "IPTC:Sub-location":  "Sublocation (Core) ",
+        "XMP-iptcCore:Location":  "Sublocation (Core) ",
+        "IPTC:City":  "City (Core) ",
+        "XMP-photoshop:City":  "City (Core) ",
+        "IPTC:Province-State":  "Province/State (Core) ",
+        "XMP-photoshop:State":  "Province/State (Core) ",
+        "IPTC:Country-PrimaryLocationName":  "Country (Core) ",
+        "XMP-photoshop:Country":  "Country (Core) ",
+        "IPTC:Country-PrimaryLocationCode":  "R17",
+        "XMP-iptcCore:CountryCode":  "R17",
+        "XMP-iptcExt:LocationCreated":  [
+                                            {
+                                                "CountryCode":  "R17",
+                                                "WorldRegion":  "Worldregion (Location created1) ",
+                                                "CountryName":  "CountryName (Location created1) ",
+                                                "City":  "City (Location created1) ",
+                                                "ProvinceState":  "Province/State (Location created1) ",
+                                                "Sublocation":  "Sublocation (Location created1) ",
+                                                "LocationId":  "Location Id (Location created1) "
+                                            }
+                                        ],
+        "XMP-iptcExt:LocationShown":  [
+                                          {
+                                              "CountryCode":  "R17",
+                                              "WorldRegion":  "Worldregion (Location shown1) ",
+                                              "CountryName":  "CountryName (Location shown1) ",
+                                              "City":  "City (Location shown1) ",
+                                              "ProvinceState":  "Province/State (Location shown1) ",
+                                              "Sublocation":  "Sublocation (Location shown1) ",
+                                              "LocationId":  [
+                                                                 "Location Id 1a(Location shown1) ",
+                                                                 "Location Id 1b(Location shown1) "
+                                                             ]
+                                          },
+                                          {
+                                              "CountryCode":  "R17",
+                                              "WorldRegion":  "Worldregion (Location shown2) ",
+                                              "CountryName":  "CountryName (Location shown2) ",
+                                              "City":  "City (Location shown2) ",
+                                              "ProvinceState":  "Province/State (Location shown2) ",
+                                              "Sublocation":  "Sublocation (Location shown2) ",
+                                              "LocationId":  [
+                                                                 "Location Id 2a(Location shown2) ",
+                                                                 "Location Id 2b(Location shown2) "
+                                                             ]
+                                          }
+                                      ],
+        "XMP-iptcExt:PersonInImage":  [
+                                          "Person Shown 1 ",
+                                          "Person Shown 2 "
+                                      ],
+        "XMP-iptcExt:PersonInImageWDetails":  [
+                                                  {
+                                                      "PersonName":  "Person Name 1 ",
+                                                      "PersonDescription":  "Person Description 1 ",
+                                                      "PersonId":  [
+                                                                       "http://wikidata.org/item/Q123456789/test2018a",
+                                                                       "http://freebase.com/m/987654321/test2018a"
+                                                                   ],
+                                                      "PersonCharacteristic":  [
+                                                                                   {
+                                                                                       "CvTermName":  "Person Characteristic Name 1 ",
+                                                                                       "CvTermRefinedAbout":  "http://example.com/cv/refinements987/codeY765/test2018a",
+                                                                                       "CvTermId":  "http://example.com/cv/test99/code987/test2018a",
+                                                                                       "CvId":  "http://example.com/cv/test99/test2018a"
+                                                                                   }
+                                                                               ]
+                                                  }
+                                              ],
+        "XMP-iptcExt:AdditionalModelInformation":  "Additional Model Info ",
+        "XMP-iptcExt:ModelAge":  [
+                                     25,
+                                     27,
+                                     30
+                                 ],
+        "XMP-plus:MinorModelAgeDisclosure":  "Age 25 or Over",
+        "XMP-plus:ModelReleaseID":  [
+                                        "Model Release ID 1 ",
+                                        "Model Release ID 2 "
+                                    ],
+        "XMP-plus:ModelReleaseStatus":  "Not Applicable",
+        "XMP-plus:PropertyReleaseID":  [
+                                           "Property Release ID 1 ",
+                                           "Property Release ID 2 "
+                                       ],
+        "XMP-plus:PropertyReleaseStatus":  "Not Applicable",
+        "XMP-iptcExt:ProductInImage":  [
+                                           {
+                                               "ProductName":  "Product Name 1 ",
+                                               "ProductDescription":  "Product Description 1 ",
+                                               "ProductGTIN":  "123456782017.1"
+                                           }
+                                       ],
+        "IPTC:ObjectName":  "The Title ",
+        "XMP-dc:Title":  "The Title ",
+        "IPTC:DateCreated":  "2017:07:13",
+        "IPTC:TimeCreated":  "17:01:00+00:00",
+        "XMP-photoshop:DateCreated":  "2017:07:13 17:01:00+00:00",
+        "IPTC:SpecialInstructions":  "An Instruction ",
+        "XMP-photoshop:Instructions":  "An Instruction ",
+        "IPTC:OriginalTransmissionReference":  "Job Id ",
+        "XMP-photoshop:TransmissionReference":  "Job Id ",
+        "XMP-iptcExt:DigitalImageGUID":  "http://example.com/imageGUIDs/TestGUID12345/test2018a",
+        "XMP-iptcExt:DigitalSourceType":  "http://cv.iptc.org/newscodes/digitalsourcetype/softwareImage",
+        "XMP-iptcExt:MaxAvailWidth":  20,
+        "XMP-iptcExt:MaxAvailHeight":  14,
+        "XMP-plus:ImageSupplier":  [
+                                       {
+                                           "ImageSupplierName":  "Image Supplier Name ",
+                                           "ImageSupplierID":  "Image Supplier Id "
+                                       }
+                                   ],
+        "XMP-plus:ImageSupplierImageID":  "Image Supplier Image ID ",
+        "XMP-iptcExt:RegistryID":  [
+                                       {
+                                           "RegItemId":  "Registry Image ID 1 ",
+                                           "RegOrgId":  "Registry Organisation ID 1 ",
+                                           "RegEntryRole":  "Registry Entry Role ID 1 "
+                                       },
+                                       {
+                                           "RegItemId":  "Registry Image ID 2 ",
+                                           "RegOrgId":  "Registry Organisation ID 2 ",
+                                           "RegEntryRole":  "Registry Entry Role ID 2 "
+                                       }
+                                   ],
+        "XMP-iptcExt:ArtworkOrObject":  [
+                                            {
+                                                "AOContributionDescription":  "AO Contribution Description 1 ",
+                                                "AOCurrentLicensorId":  "AO Current Licensor ID 1 ",
+                                                "AOSourceInvNo":  "AO Source Inventory No 1 ",
+                                                "AOCircaDateCreated":  "AO Circa Date: between 1550 and 1600 ",
+                                                "AOSourceInvURL":  "AO Source Inventory URL ",
+                                                "AOCurrentLicensorName":  "AO Current Licensor Name 1 ",
+                                                "AOPhysicalDescription":  "AO Physical Description 1 ",
+                                                "AOStylePeriod":  [
+                                                                      "AO Style Baroque ",
+                                                                      "AO Style Italian Baroque "
+                                                                  ],
+                                                "AOCreatorId":  [
+                                                                    "AO Creator Id 1a ",
+                                                                    "AO Creator Id 1b "
+                                                                ],
+                                                "AODateCreated":  "1916:10:26 12:13:14+00:00",
+                                                "AOSource":  "AO Source 1 ",
+                                                "AOCopyrightNotice":  "AO Copyright Notice 1 ",
+                                                "AOContentDescription":  "AO Content Description 1 ",
+                                                "AOCurrentCopyrightOwnerId":  "AO Current Copyright Owner ID 1 ",
+                                                "AOTitle":  "AO Title 1 ",
+                                                "AOCurrentCopyrightOwnerName":  "AO Current Copyright Owner Name 1 ",
+                                                "AOCreator":  [
+                                                                  "AO Creator Name 1a ",
+                                                                  "AO Creator Name 1b "
+                                                              ]
+                                            }
+                                        ]
+    }
+]
