@@ -1,0 +1,925 @@
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='Image::ExifTool 11.10'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+
+ <rdf:Description rdf:about=''
+  xmlns:Iptc4xmpExt='http://iptc.org/std/Iptc4xmpExt/2008-02-29/'
+  xmlns:xmp='http://ns.adobe.com/xap/1.0/'>
+  <Iptc4xmpExt:AboutCvTerm>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:CvId>CV-Term CV ID -  value</Iptc4xmpExt:CvId>
+     <Iptc4xmpExt:CvTermId>CV-Term ID -  value</Iptc4xmpExt:CvTermId>
+     <Iptc4xmpExt:CvTermName>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>CV-Term name -  value</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:CvTermName>
+     <Iptc4xmpExt:CvTermRefinedAbout>Refined ´aboutness´ of the CV-Term -  value</Iptc4xmpExt:CvTermRefinedAbout>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:AboutCvTerm>
+  <Iptc4xmpExt:ArtworkOrObject>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:AOCircaDateCreated>Circa Date Created -  value [1]</Iptc4xmpExt:AOCircaDateCreated>
+     <Iptc4xmpExt:AOContentDescription>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Content Description -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:AOContentDescription>
+     <Iptc4xmpExt:AOContributionDescription>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Contribution Description -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:AOContributionDescription>
+     <Iptc4xmpExt:AOCopyrightNotice>Copyright Notice -  value [1]</Iptc4xmpExt:AOCopyrightNotice>
+     <Iptc4xmpExt:AOCreator>
+      <rdf:Seq>
+       <rdf:li>Creator -  value 1  [1]</rdf:li>
+       <rdf:li>Creator -  value 2 [1]</rdf:li>
+      </rdf:Seq>
+     </Iptc4xmpExt:AOCreator>
+     <Iptc4xmpExt:AOCreatorId>
+      <rdf:Seq>
+       <rdf:li>Creator ID -  value 1  [1]</rdf:li>
+       <rdf:li>Creator ID -  value 2 [1]</rdf:li>
+      </rdf:Seq>
+     </Iptc4xmpExt:AOCreatorId>
+     <Iptc4xmpExt:AOCurrentCopyrightOwnerId>Current Copyright Owner ID -  value [1]</Iptc4xmpExt:AOCurrentCopyrightOwnerId>
+     <Iptc4xmpExt:AOCurrentCopyrightOwnerName>Current Copyright Owner Name -  value [1]</Iptc4xmpExt:AOCurrentCopyrightOwnerName>
+     <Iptc4xmpExt:AOCurrentLicensorId>Current Licensor ID -  value [1]</Iptc4xmpExt:AOCurrentLicensorId>
+     <Iptc4xmpExt:AOCurrentLicensorName>Current Licensor Name -  value [1]</Iptc4xmpExt:AOCurrentLicensorName>
+     <Iptc4xmpExt:AODateCreated>2018-08-14T18:08:14+00:00</Iptc4xmpExt:AODateCreated>
+     <Iptc4xmpExt:AOPhysicalDescription>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Physical Description -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:AOPhysicalDescription>
+     <Iptc4xmpExt:AOSource>Source -  value [1]</Iptc4xmpExt:AOSource>
+     <Iptc4xmpExt:AOSourceInvNo>Source Inventory Number -  value [1]</Iptc4xmpExt:AOSourceInvNo>
+     <Iptc4xmpExt:AOSourceInvURL>Source Inventory URL -  value [1]</Iptc4xmpExt:AOSourceInvURL>
+     <Iptc4xmpExt:AOStylePeriod>
+      <rdf:Bag>
+       <rdf:li>Style Period</rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:AOStylePeriod>
+     <Iptc4xmpExt:AOTitle>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Title -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:AOTitle>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:AOCircaDateCreated>Circa Date Created -  value [2]</Iptc4xmpExt:AOCircaDateCreated>
+     <Iptc4xmpExt:AOContentDescription>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Content Description -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:AOContentDescription>
+     <Iptc4xmpExt:AOContributionDescription>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Contribution Description -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:AOContributionDescription>
+     <Iptc4xmpExt:AOCopyrightNotice>Copyright Notice -  value [2]</Iptc4xmpExt:AOCopyrightNotice>
+     <Iptc4xmpExt:AOCreator>
+      <rdf:Seq>
+       <rdf:li>Creator -  value 1  [2]</rdf:li>
+       <rdf:li>Creator -  value 2 [2]</rdf:li>
+      </rdf:Seq>
+     </Iptc4xmpExt:AOCreator>
+     <Iptc4xmpExt:AOCreatorId>
+      <rdf:Seq>
+       <rdf:li>Creator ID -  value 1  [2]</rdf:li>
+       <rdf:li>Creator ID -  value 2 [2]</rdf:li>
+      </rdf:Seq>
+     </Iptc4xmpExt:AOCreatorId>
+     <Iptc4xmpExt:AOCurrentCopyrightOwnerId>Current Copyright Owner ID -  value [2]</Iptc4xmpExt:AOCurrentCopyrightOwnerId>
+     <Iptc4xmpExt:AOCurrentCopyrightOwnerName>Current Copyright Owner Name -  value [2]</Iptc4xmpExt:AOCurrentCopyrightOwnerName>
+     <Iptc4xmpExt:AOCurrentLicensorId>Current Licensor ID -  value [2]</Iptc4xmpExt:AOCurrentLicensorId>
+     <Iptc4xmpExt:AOCurrentLicensorName>Current Licensor Name -  value [2]</Iptc4xmpExt:AOCurrentLicensorName>
+     <Iptc4xmpExt:AODateCreated>2018-08-14T18:08:14+00:00</Iptc4xmpExt:AODateCreated>
+     <Iptc4xmpExt:AOPhysicalDescription>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Physical Description -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:AOPhysicalDescription>
+     <Iptc4xmpExt:AOSource>Source -  value [2]</Iptc4xmpExt:AOSource>
+     <Iptc4xmpExt:AOSourceInvNo>Source Inventory Number -  value [2]</Iptc4xmpExt:AOSourceInvNo>
+     <Iptc4xmpExt:AOSourceInvURL>Source Inventory URL -  value [2]</Iptc4xmpExt:AOSourceInvURL>
+     <Iptc4xmpExt:AOTitle>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Title -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:AOTitle>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:ArtworkOrObject>
+  <Iptc4xmpExt:CircaDateCreated>Circa Date Created</Iptc4xmpExt:CircaDateCreated>
+  <Iptc4xmpExt:ContainerFormat rdf:parseType='Resource'>
+   <Iptc4xmpExt:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang='x-default'>Name -  value</rdf:li>
+    </rdf:Alt>
+   </Iptc4xmpExt:Name>
+   <xmp:Identifier>
+    <rdf:Bag>
+     <rdf:li>Identifier -  value</rdf:li>
+    </rdf:Bag>
+   </xmp:Identifier>
+  </Iptc4xmpExt:ContainerFormat>
+  <Iptc4xmpExt:Contributor>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Name>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:Name>
+     <Iptc4xmpExt:Role>
+      <rdf:Bag>
+       <rdf:li>Role -  value [1]</rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:Role>
+     <xmp:Identifier>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [1]</rdf:li>
+      </rdf:Bag>
+     </xmp:Identifier>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Name>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:Name>
+     <Iptc4xmpExt:Role>
+      <rdf:Bag>
+       <rdf:li>Role -  value [2]</rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:Role>
+     <xmp:Identifier>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [2]</rdf:li>
+      </rdf:Bag>
+     </xmp:Identifier>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:Contributor>
+  <Iptc4xmpExt:CopyrightYear>3</Iptc4xmpExt:CopyrightYear>
+  <Iptc4xmpExt:Creator>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Name>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:Name>
+     <Iptc4xmpExt:Role>
+      <rdf:Bag>
+       <rdf:li>Role -  value [1]</rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:Role>
+     <xmp:Identifier>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [1]</rdf:li>
+      </rdf:Bag>
+     </xmp:Identifier>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Name>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:Name>
+     <Iptc4xmpExt:Role>
+      <rdf:Bag>
+       <rdf:li>Role -  value [2]</rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:Role>
+     <xmp:Identifier>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [2]</rdf:li>
+      </rdf:Bag>
+     </xmp:Identifier>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:Creator>
+  <Iptc4xmpExt:DataOnScreen>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:RegionText>Text -  value [1]</Iptc4xmpExt:RegionText>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:RegionText>Text -  value [2]</Iptc4xmpExt:RegionText>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:DataOnScreen>
+  <Iptc4xmpExt:Dopesheet>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Dopesheet</rdf:li>
+   </rdf:Alt>
+  </Iptc4xmpExt:Dopesheet>
+  <Iptc4xmpExt:DopesheetLink>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Link>Link -  value</Iptc4xmpExt:Link>
+     <Iptc4xmpExt:LinkQualifier>Qualifier -  value</Iptc4xmpExt:LinkQualifier>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:DopesheetLink>
+  <Iptc4xmpExt:EmbdEncRightsExpr>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:EncRightsExpr>Encoded Rights Expression -  value [1]</Iptc4xmpExt:EncRightsExpr>
+     <Iptc4xmpExt:RightsExprEncType>Encoding type -  value [1]</Iptc4xmpExt:RightsExprEncType>
+     <Iptc4xmpExt:RightsExprLangId>Rights Expression Language ID -  value [1]</Iptc4xmpExt:RightsExprLangId>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:EncRightsExpr>Encoded Rights Expression -  value [2]</Iptc4xmpExt:EncRightsExpr>
+     <Iptc4xmpExt:RightsExprEncType>Encoding type -  value [2]</Iptc4xmpExt:RightsExprEncType>
+     <Iptc4xmpExt:RightsExprLangId>Rights Expression Language ID -  value [2]</Iptc4xmpExt:RightsExprLangId>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:EmbdEncRightsExpr>
+  <Iptc4xmpExt:Episode rdf:parseType='Resource'>
+   <Iptc4xmpExt:Identifier>Identifier -  value</Iptc4xmpExt:Identifier>
+   <Iptc4xmpExt:Name>Name -  value</Iptc4xmpExt:Name>
+   <Iptc4xmpExt:Number>Number -  value</Iptc4xmpExt:Number>
+  </Iptc4xmpExt:Episode>
+  <Iptc4xmpExt:EventExt>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Name>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:Name>
+     <xmp:Identifier>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [1]</rdf:li>
+      </rdf:Bag>
+     </xmp:Identifier>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Name>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:Name>
+     <xmp:Identifier>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [2]</rdf:li>
+      </rdf:Bag>
+     </xmp:Identifier>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:EventExt>
+  <Iptc4xmpExt:ExternalMetadataLink>
+   <rdf:Bag>
+    <rdf:li>External Metadata URL - value 1</rdf:li>
+    <rdf:li>External Metadata URL value 2</rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:ExternalMetadataLink>
+  <Iptc4xmpExt:FeedIdentifier>Feed Identifier</Iptc4xmpExt:FeedIdentifier>
+  <Iptc4xmpExt:Genre>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:CvId>CV-Term CV ID -  value</Iptc4xmpExt:CvId>
+     <Iptc4xmpExt:CvTermId>CV-Term ID -  value</Iptc4xmpExt:CvTermId>
+     <Iptc4xmpExt:CvTermName>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>CV-Term name -  value</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:CvTermName>
+     <Iptc4xmpExt:CvTermRefinedAbout>Refined ´aboutness´ of the CV-Term -  value</Iptc4xmpExt:CvTermRefinedAbout>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:Genre>
+  <Iptc4xmpExt:Headline>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Headline </rdf:li>
+   </rdf:Alt>
+  </Iptc4xmpExt:Headline>
+  <Iptc4xmpExt:LinkedEncRightsExpr>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:LinkedRightsExpr>Link to Encoded Rights Expression -  value [1]</Iptc4xmpExt:LinkedRightsExpr>
+     <Iptc4xmpExt:RightsExprEncType>Encoding type -  value [1]</Iptc4xmpExt:RightsExprEncType>
+     <Iptc4xmpExt:RightsExprLangId>Rights Expression Language ID -  value [1]</Iptc4xmpExt:RightsExprLangId>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:LinkedRightsExpr>Link to Encoded Rights Expression -  value [2]</Iptc4xmpExt:LinkedRightsExpr>
+     <Iptc4xmpExt:RightsExprEncType>Encoding type -  value [2]</Iptc4xmpExt:RightsExprEncType>
+     <Iptc4xmpExt:RightsExprLangId>Rights Expression Language ID -  value [2]</Iptc4xmpExt:RightsExprLangId>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:LinkedEncRightsExpr>
+  <Iptc4xmpExt:LocationCreated>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:City>City name -  value [1]</Iptc4xmpExt:City>
+     <Iptc4xmpExt:CountryCode>Country ISO code -  value [1]</Iptc4xmpExt:CountryCode>
+     <Iptc4xmpExt:CountryName>Country name -  value [1]</Iptc4xmpExt:CountryName>
+     <Iptc4xmpExt:LocationId>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [1]</rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:LocationId>
+     <Iptc4xmpExt:ProvinceState>State/Province name -  value [1]</Iptc4xmpExt:ProvinceState>
+     <Iptc4xmpExt:Sublocation>Sublocation name -  value [1]</Iptc4xmpExt:Sublocation>
+     <Iptc4xmpExt:WorldRegion>World region name -  value [1]</Iptc4xmpExt:WorldRegion>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:City>City name -  value [2]</Iptc4xmpExt:City>
+     <Iptc4xmpExt:CountryCode>Country ISO code -  value [2]</Iptc4xmpExt:CountryCode>
+     <Iptc4xmpExt:CountryName>Country name -  value [2]</Iptc4xmpExt:CountryName>
+     <Iptc4xmpExt:LocationId>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [2]</rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:LocationId>
+     <Iptc4xmpExt:ProvinceState>State/Province name -  value [2]</Iptc4xmpExt:ProvinceState>
+     <Iptc4xmpExt:Sublocation>Sublocation name -  value [2]</Iptc4xmpExt:Sublocation>
+     <Iptc4xmpExt:WorldRegion>World region name -  value [2]</Iptc4xmpExt:WorldRegion>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:LocationCreated>
+  <Iptc4xmpExt:LocationShown>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:City>City name -  value [1]</Iptc4xmpExt:City>
+     <Iptc4xmpExt:CountryCode>Country ISO code -  value [1]</Iptc4xmpExt:CountryCode>
+     <Iptc4xmpExt:CountryName>Country name -  value [1]</Iptc4xmpExt:CountryName>
+     <Iptc4xmpExt:LocationId>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [1]</rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:LocationId>
+     <Iptc4xmpExt:ProvinceState>State/Province name -  value [1]</Iptc4xmpExt:ProvinceState>
+     <Iptc4xmpExt:Sublocation>Sublocation name -  value [1]</Iptc4xmpExt:Sublocation>
+     <Iptc4xmpExt:WorldRegion>World region name -  value [1]</Iptc4xmpExt:WorldRegion>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:City>City name -  value [2]</Iptc4xmpExt:City>
+     <Iptc4xmpExt:CountryCode>Country ISO code -  value [2]</Iptc4xmpExt:CountryCode>
+     <Iptc4xmpExt:CountryName>Country name -  value [2]</Iptc4xmpExt:CountryName>
+     <Iptc4xmpExt:LocationId>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [2]</rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:LocationId>
+     <Iptc4xmpExt:ProvinceState>State/Province name -  value [2]</Iptc4xmpExt:ProvinceState>
+     <Iptc4xmpExt:Sublocation>Sublocation name -  value [2]</Iptc4xmpExt:Sublocation>
+     <Iptc4xmpExt:WorldRegion>World region name -  value [2]</Iptc4xmpExt:WorldRegion>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:LocationShown>
+  <Iptc4xmpExt:PersonHeard>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Name>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:Name>
+     <xmp:Identifier>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [1]</rdf:li>
+      </rdf:Bag>
+     </xmp:Identifier>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Name>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:Name>
+     <xmp:Identifier>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [2]</rdf:li>
+      </rdf:Bag>
+     </xmp:Identifier>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:PersonHeard>
+  <Iptc4xmpExt:PersonInImageWDetails>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:PersonCharacteristic>
+      <rdf:Bag>
+       <rdf:li rdf:parseType='Resource'>
+        <Iptc4xmpExt:CvId>CV-Term CV ID -  value [1]</Iptc4xmpExt:CvId>
+        <Iptc4xmpExt:CvTermId>CV-Term ID -  value [1]</Iptc4xmpExt:CvTermId>
+        <Iptc4xmpExt:CvTermName>
+         <rdf:Alt>
+          <rdf:li xml:lang='x-default'>CV-Term name -  value [1]</rdf:li>
+         </rdf:Alt>
+        </Iptc4xmpExt:CvTermName>
+        <Iptc4xmpExt:CvTermRefinedAbout>Refined ´aboutness´ of the CV-Term -  value [1]</Iptc4xmpExt:CvTermRefinedAbout>
+       </rdf:li>
+       <rdf:li rdf:parseType='Resource'>
+        <Iptc4xmpExt:CvId>CV-Term CV ID -  value [2]</Iptc4xmpExt:CvId>
+        <Iptc4xmpExt:CvTermId>CV-Term ID -  value [2]</Iptc4xmpExt:CvTermId>
+        <Iptc4xmpExt:CvTermName>
+         <rdf:Alt>
+          <rdf:li xml:lang='x-default'>CV-Term name -  value [2]</rdf:li>
+         </rdf:Alt>
+        </Iptc4xmpExt:CvTermName>
+        <Iptc4xmpExt:CvTermRefinedAbout>Refined ´aboutness´ of the CV-Term -  value [2]</Iptc4xmpExt:CvTermRefinedAbout>
+       </rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:PersonCharacteristic>
+     <Iptc4xmpExt:PersonDescription>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Description -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:PersonDescription>
+     <Iptc4xmpExt:PersonId>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [1]</rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:PersonId>
+     <Iptc4xmpExt:PersonName>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:PersonName>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:PersonCharacteristic>
+      <rdf:Bag>
+       <rdf:li rdf:parseType='Resource'>
+        <Iptc4xmpExt:CvId>CV-Term CV ID -  value [1]</Iptc4xmpExt:CvId>
+        <Iptc4xmpExt:CvTermId>CV-Term ID -  value [1]</Iptc4xmpExt:CvTermId>
+        <Iptc4xmpExt:CvTermName>
+         <rdf:Alt>
+          <rdf:li xml:lang='x-default'>CV-Term name -  value [1]</rdf:li>
+         </rdf:Alt>
+        </Iptc4xmpExt:CvTermName>
+        <Iptc4xmpExt:CvTermRefinedAbout>Refined ´aboutness´ of the CV-Term -  value [1]</Iptc4xmpExt:CvTermRefinedAbout>
+       </rdf:li>
+       <rdf:li rdf:parseType='Resource'>
+        <Iptc4xmpExt:CvId>CV-Term CV ID -  value [2]</Iptc4xmpExt:CvId>
+        <Iptc4xmpExt:CvTermId>CV-Term ID -  value [2]</Iptc4xmpExt:CvTermId>
+        <Iptc4xmpExt:CvTermName>
+         <rdf:Alt>
+          <rdf:li xml:lang='x-default'>CV-Term name -  value [2]</rdf:li>
+         </rdf:Alt>
+        </Iptc4xmpExt:CvTermName>
+        <Iptc4xmpExt:CvTermRefinedAbout>Refined ´aboutness´ of the CV-Term -  value [2]</Iptc4xmpExt:CvTermRefinedAbout>
+       </rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:PersonCharacteristic>
+     <Iptc4xmpExt:PersonDescription>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Description -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:PersonDescription>
+     <Iptc4xmpExt:PersonId>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [2]</rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:PersonId>
+     <Iptc4xmpExt:PersonName>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:PersonName>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:PersonInImageWDetails>
+  <Iptc4xmpExt:PlanningRef>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Name>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:Name>
+     <Iptc4xmpExt:Role>
+      <rdf:Bag>
+       <rdf:li>Role -  value [1]</rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:Role>
+     <xmp:Identifier>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [1]</rdf:li>
+      </rdf:Bag>
+     </xmp:Identifier>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Name>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:Name>
+     <Iptc4xmpExt:Role>
+      <rdf:Bag>
+       <rdf:li>Role -  value [2]</rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:Role>
+     <xmp:Identifier>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [2]</rdf:li>
+      </rdf:Bag>
+     </xmp:Identifier>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:PlanningRef>
+  <Iptc4xmpExt:ProductInImage>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:ProductDescription>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Description -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:ProductDescription>
+     <Iptc4xmpExt:ProductGTIN>GTIN -  value [1]</Iptc4xmpExt:ProductGTIN>
+     <Iptc4xmpExt:ProductName>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:ProductName>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:ProductDescription>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Description -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:ProductDescription>
+     <Iptc4xmpExt:ProductGTIN>GTIN -  value [2]</Iptc4xmpExt:ProductGTIN>
+     <Iptc4xmpExt:ProductName>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:ProductName>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:ProductInImage>
+  <Iptc4xmpExt:PublicationEvent>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Date>2018-08-14T18:08:14+00:00</Iptc4xmpExt:Date>
+     <Iptc4xmpExt:Identifier>Publication Event Identifier -  value</Iptc4xmpExt:Identifier>
+     <Iptc4xmpExt:Name>Publication Event Name -  value</Iptc4xmpExt:Name>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:PublicationEvent>
+  <Iptc4xmpExt:Rating>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:RatingRegion>
+      <rdf:Bag>
+       <rdf:li rdf:parseType='Resource'>
+        <Iptc4xmpExt:City>City name -  value [1]</Iptc4xmpExt:City>
+        <Iptc4xmpExt:CountryCode>Country ISO code -  value [1]</Iptc4xmpExt:CountryCode>
+        <Iptc4xmpExt:CountryName>Country name -  value [1]</Iptc4xmpExt:CountryName>
+        <Iptc4xmpExt:LocationId>
+         <rdf:Bag>
+          <rdf:li>Identifier -  value [1]</rdf:li>
+         </rdf:Bag>
+        </Iptc4xmpExt:LocationId>
+        <Iptc4xmpExt:ProvinceState>State/Province name -  value [1]</Iptc4xmpExt:ProvinceState>
+        <Iptc4xmpExt:Sublocation>Sublocation name -  value [1]</Iptc4xmpExt:Sublocation>
+        <Iptc4xmpExt:WorldRegion>World region name -  value [1]</Iptc4xmpExt:WorldRegion>
+       </rdf:li>
+       <rdf:li rdf:parseType='Resource'>
+        <Iptc4xmpExt:City>City name -  value [2]</Iptc4xmpExt:City>
+        <Iptc4xmpExt:CountryCode>Country ISO code -  value [2]</Iptc4xmpExt:CountryCode>
+        <Iptc4xmpExt:CountryName>Country name -  value [2]</Iptc4xmpExt:CountryName>
+        <Iptc4xmpExt:LocationId>
+         <rdf:Bag>
+          <rdf:li>Identifier -  value [2]</rdf:li>
+         </rdf:Bag>
+        </Iptc4xmpExt:LocationId>
+        <Iptc4xmpExt:ProvinceState>State/Province name -  value [2]</Iptc4xmpExt:ProvinceState>
+        <Iptc4xmpExt:Sublocation>Sublocation name -  value [2]</Iptc4xmpExt:Sublocation>
+        <Iptc4xmpExt:WorldRegion>World region name -  value [2]</Iptc4xmpExt:WorldRegion>
+       </rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:RatingRegion>
+     <Iptc4xmpExt:RatingScaleMaxValue>Rating Scale Max Value -  value [1]</Iptc4xmpExt:RatingScaleMaxValue>
+     <Iptc4xmpExt:RatingScaleMinValue>Rating Scale Min Value -  value [1]</Iptc4xmpExt:RatingScaleMinValue>
+     <Iptc4xmpExt:RatingSourceLink>Rating Source Link -  value [1]</Iptc4xmpExt:RatingSourceLink>
+     <Iptc4xmpExt:RatingValue>Rating Value -  value [1]</Iptc4xmpExt:RatingValue>
+     <Iptc4xmpExt:RatingValueLogoLink>Rating Value Logo -  value [1]</Iptc4xmpExt:RatingValueLogoLink>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:RatingRegion>
+      <rdf:Bag>
+       <rdf:li rdf:parseType='Resource'>
+        <Iptc4xmpExt:City>City name -  value [1]</Iptc4xmpExt:City>
+        <Iptc4xmpExt:CountryCode>Country ISO code -  value [1]</Iptc4xmpExt:CountryCode>
+        <Iptc4xmpExt:CountryName>Country name -  value [1]</Iptc4xmpExt:CountryName>
+        <Iptc4xmpExt:LocationId>
+         <rdf:Bag>
+          <rdf:li>Identifier -  value [1]</rdf:li>
+         </rdf:Bag>
+        </Iptc4xmpExt:LocationId>
+        <Iptc4xmpExt:ProvinceState>State/Province name -  value [1]</Iptc4xmpExt:ProvinceState>
+        <Iptc4xmpExt:Sublocation>Sublocation name -  value [1]</Iptc4xmpExt:Sublocation>
+        <Iptc4xmpExt:WorldRegion>World region name -  value [1]</Iptc4xmpExt:WorldRegion>
+       </rdf:li>
+       <rdf:li rdf:parseType='Resource'>
+        <Iptc4xmpExt:City>City name -  value [2]</Iptc4xmpExt:City>
+        <Iptc4xmpExt:CountryCode>Country ISO code -  value [2]</Iptc4xmpExt:CountryCode>
+        <Iptc4xmpExt:CountryName>Country name -  value [2]</Iptc4xmpExt:CountryName>
+        <Iptc4xmpExt:LocationId>
+         <rdf:Bag>
+          <rdf:li>Identifier -  value [2]</rdf:li>
+         </rdf:Bag>
+        </Iptc4xmpExt:LocationId>
+        <Iptc4xmpExt:ProvinceState>State/Province name -  value [2]</Iptc4xmpExt:ProvinceState>
+        <Iptc4xmpExt:Sublocation>Sublocation name -  value [2]</Iptc4xmpExt:Sublocation>
+        <Iptc4xmpExt:WorldRegion>World region name -  value [2]</Iptc4xmpExt:WorldRegion>
+       </rdf:li>
+      </rdf:Bag>
+     </Iptc4xmpExt:RatingRegion>
+     <Iptc4xmpExt:RatingScaleMaxValue>Rating Scale Max Value -  value [2]</Iptc4xmpExt:RatingScaleMaxValue>
+     <Iptc4xmpExt:RatingScaleMinValue>Rating Scale Min Value -  value [2]</Iptc4xmpExt:RatingScaleMinValue>
+     <Iptc4xmpExt:RatingSourceLink>Rating Source Link -  value [2]</Iptc4xmpExt:RatingSourceLink>
+     <Iptc4xmpExt:RatingValue>Rating Value -  value [2]</Iptc4xmpExt:RatingValue>
+     <Iptc4xmpExt:RatingValueLogoLink>Rating Value Logo -  value [2]</Iptc4xmpExt:RatingValueLogoLink>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:Rating>
+  <Iptc4xmpExt:RecDevice rdf:parseType='Resource'>
+   <Iptc4xmpExt:AttLensDescription>Attached Lens Description -  value</Iptc4xmpExt:AttLensDescription>
+   <Iptc4xmpExt:Manufacturer>Manufacturer -  value</Iptc4xmpExt:Manufacturer>
+   <Iptc4xmpExt:ModelName>Model Name -  value</Iptc4xmpExt:ModelName>
+   <Iptc4xmpExt:OwnersDeviceId>Owner´s Device ID -  value</Iptc4xmpExt:OwnersDeviceId>
+   <Iptc4xmpExt:SerialNumber>Serial Number -  value</Iptc4xmpExt:SerialNumber>
+  </Iptc4xmpExt:RecDevice>
+  <Iptc4xmpExt:RegistryId>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:RegEntryRole>Role -  value [1]</Iptc4xmpExt:RegEntryRole>
+     <Iptc4xmpExt:RegItemId>Asset Identifier -  value [1]</Iptc4xmpExt:RegItemId>
+     <Iptc4xmpExt:RegOrgId>Registry Identifier -  value [1]</Iptc4xmpExt:RegOrgId>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:RegEntryRole>Role -  value [2]</Iptc4xmpExt:RegEntryRole>
+     <Iptc4xmpExt:RegItemId>Asset Identifier -  value [2]</Iptc4xmpExt:RegItemId>
+     <Iptc4xmpExt:RegOrgId>Registry Identifier -  value [2]</Iptc4xmpExt:RegOrgId>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:RegistryId>
+  <Iptc4xmpExt:ReleaseReady>True</Iptc4xmpExt:ReleaseReady>
+  <Iptc4xmpExt:Season rdf:parseType='Resource'>
+   <Iptc4xmpExt:Identifier>Identifier -  value</Iptc4xmpExt:Identifier>
+   <Iptc4xmpExt:Name>Name -  value</Iptc4xmpExt:Name>
+   <Iptc4xmpExt:Number>Number -  value</Iptc4xmpExt:Number>
+  </Iptc4xmpExt:Season>
+  <Iptc4xmpExt:Series rdf:parseType='Resource'>
+   <Iptc4xmpExt:Identifier>Series identifier -  value</Iptc4xmpExt:Identifier>
+   <Iptc4xmpExt:Name>Series name -  value</Iptc4xmpExt:Name>
+  </Iptc4xmpExt:Series>
+  <Iptc4xmpExt:StorylineIdentifier>
+   <rdf:Bag>
+    <rdf:li>Storyline Identifier - value 1</rdf:li>
+    <rdf:li>Storyline Identifier value 2</rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:StorylineIdentifier>
+  <Iptc4xmpExt:StreamReady>Stream-ready</Iptc4xmpExt:StreamReady>
+  <Iptc4xmpExt:SupplyChainSource>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Name>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:Name>
+     <xmp:Identifier>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [1]</rdf:li>
+      </rdf:Bag>
+     </xmp:Identifier>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Name>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:Name>
+     <xmp:Identifier>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [2]</rdf:li>
+      </rdf:Bag>
+     </xmp:Identifier>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:SupplyChainSource>
+  <Iptc4xmpExt:TemporalCoverage rdf:parseType='Resource'>
+   <Iptc4xmpExt:tempCoverageFrom>2018-08-14T18:08:14+00:00</Iptc4xmpExt:tempCoverageFrom>
+   <Iptc4xmpExt:tempCoverageTo>2018-08-14T18:08:14+00:00</Iptc4xmpExt:tempCoverageTo>
+  </Iptc4xmpExt:TemporalCoverage>
+  <Iptc4xmpExt:Transcript>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Transcript</rdf:li>
+   </rdf:Alt>
+  </Iptc4xmpExt:Transcript>
+  <Iptc4xmpExt:TranscriptLink>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Link>Link -  value [1]</Iptc4xmpExt:Link>
+     <Iptc4xmpExt:LinkQualifier>Qualifier -  value [1]</Iptc4xmpExt:LinkQualifier>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Link>Link -  value [2]</Iptc4xmpExt:Link>
+     <Iptc4xmpExt:LinkQualifier>Qualifier -  value [2]</Iptc4xmpExt:LinkQualifier>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:TranscriptLink>
+  <Iptc4xmpExt:VideoShotType>
+   <rdf:Bag>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Name>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [1]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:Name>
+     <xmp:Identifier>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [1]</rdf:li>
+      </rdf:Bag>
+     </xmp:Identifier>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <Iptc4xmpExt:Name>
+      <rdf:Alt>
+       <rdf:li xml:lang='x-default'>Name -  value [2]</rdf:li>
+      </rdf:Alt>
+     </Iptc4xmpExt:Name>
+     <xmp:Identifier>
+      <rdf:Bag>
+       <rdf:li>Identifier -  value [2]</rdf:li>
+      </rdf:Bag>
+     </xmp:Identifier>
+    </rdf:li>
+   </rdf:Bag>
+  </Iptc4xmpExt:VideoShotType>
+  <Iptc4xmpExt:VisualColour>Visual Colour</Iptc4xmpExt:VisualColour>
+  <Iptc4xmpExt:WorkflowTag rdf:parseType='Resource'>
+   <Iptc4xmpExt:CvId>CV-Term CV ID -  value</Iptc4xmpExt:CvId>
+   <Iptc4xmpExt:CvTermId>CV-Term ID -  value</Iptc4xmpExt:CvTermId>
+   <Iptc4xmpExt:CvTermName>
+    <rdf:Alt>
+     <rdf:li xml:lang='x-default'>CV-Term name -  value</rdf:li>
+    </rdf:Alt>
+   </Iptc4xmpExt:CvTermName>
+   <Iptc4xmpExt:CvTermRefinedAbout>Refined ´aboutness´ of the CV-Term -  value</Iptc4xmpExt:CvTermRefinedAbout>
+  </Iptc4xmpExt:WorkflowTag>
+  <Iptc4xmpExt:audioBitRate>3</Iptc4xmpExt:audioBitRate>
+  <Iptc4xmpExt:audioBitRateMode>Audio Bitrate Type</Iptc4xmpExt:audioBitRateMode>
+  <Iptc4xmpExt:audioBitsPerSample>3</Iptc4xmpExt:audioBitsPerSample>
+  <Iptc4xmpExt:audioChannelCount>3</Iptc4xmpExt:audioChannelCount>
+  <Iptc4xmpExt:videoBitRate>3</Iptc4xmpExt:videoBitRate>
+  <Iptc4xmpExt:videoBitRateMode>Video Bitrate Type</Iptc4xmpExt:videoBitRateMode>
+  <Iptc4xmpExt:videoDisplayAspectRatio>23/10</Iptc4xmpExt:videoDisplayAspectRatio>
+  <Iptc4xmpExt:videoEncodingProfile>Video Profile</Iptc4xmpExt:videoEncodingProfile>
+  <Iptc4xmpExt:videoStreamsCount>3</Iptc4xmpExt:videoStreamsCount>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <dc:description>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Description</rdf:li>
+   </rdf:Alt>
+  </dc:description>
+  <dc:format>Media Type</dc:format>
+  <dc:identifier>Video Identifier</dc:identifier>
+  <dc:language>
+   <rdf:Bag>
+    <rdf:li>Language Version</rdf:li>
+   </rdf:Bag>
+  </dc:language>
+  <dc:rights>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Copyright Notice </rdf:li>
+   </rdf:Alt>
+  </dc:rights>
+  <dc:subject>
+   <rdf:Bag>
+    <rdf:li>Keyword - value 1</rdf:li>
+    <rdf:li>Keyword value 2</rdf:li>
+   </rdf:Bag>
+  </dc:subject>
+  <dc:title>
+   <rdf:Alt>
+    <rdf:li xml:lang='x-default'>Title</rdf:li>
+   </rdf:Alt>
+  </dc:title>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:photoshop='http://ns.adobe.com/photoshop/1.0/'>
+  <photoshop:Credit>Credit Line</photoshop:Credit>
+  <photoshop:DateCreated>2018-08-14T18:08:14+00:00</photoshop:DateCreated>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:plus='http://ns.useplus.org/ldf/xmp/1.0/'>
+  <plus:ImageSupplier>
+   <rdf:Seq>
+    <rdf:li rdf:parseType='Resource'>
+     <plus:ImageSupplierID>Identifier -  value</plus:ImageSupplierID>
+     <plus:ImageSupplierName>Name -  value</plus:ImageSupplierName>
+    </rdf:li>
+   </rdf:Seq>
+  </plus:ImageSupplier>
+  <plus:Licensor>
+   <rdf:Seq>
+    <rdf:li rdf:parseType='Resource'>
+     <plus:LicensorID>Identifier -  value [1]</plus:LicensorID>
+     <plus:LicensorName>Name -  value [1]</plus:LicensorName>
+    </rdf:li>
+    <rdf:li rdf:parseType='Resource'>
+     <plus:LicensorID>Identifier -  value [2]</plus:LicensorID>
+     <plus:LicensorName>Name -  value [2]</plus:LicensorName>
+    </rdf:li>
+   </rdf:Seq>
+  </plus:Licensor>
+  <plus:ModelReleaseID>
+   <rdf:Bag>
+    <rdf:li>Model Release Document - value 1</rdf:li>
+    <rdf:li>Model Release Document value 2</rdf:li>
+   </rdf:Bag>
+  </plus:ModelReleaseID>
+  <plus:ModelReleaseStatus>http://ns.useplus.org/ldf/vocab/MR-NAP</plus:ModelReleaseStatus>
+  <plus:PropertyReleaseID>
+   <rdf:Bag>
+    <rdf:li>Property Release Document - value 1</rdf:li>
+    <rdf:li>Property Release Document value 2</rdf:li>
+   </rdf:Bag>
+  </plus:PropertyReleaseID>
+  <plus:PropertyReleaseStatus>http://ns.useplus.org/ldf/vocab/PR-NAP</plus:PropertyReleaseStatus>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:tiff='http://ns.adobe.com/tiff/1.0/'>
+  <tiff:Orientation>1</tiff:Orientation>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xmp='http://ns.adobe.com/xap/1.0/'>
+  <xmp:ModifyDate>2018-08-14T18:08:14+00:00</xmp:ModifyDate>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:stDim='http://ns.adobe.com/xap/1.0/sType/Dimensions#'
+  xmlns:xmpDM='http://ns.adobe.com/xmp/1.0/DynamicMedia/'>
+  <xmpDM:audioChannelType>Audio Channel Layout</xmpDM:audioChannelType>
+  <xmpDM:audioCompressor>MP3</xmpDM:audioCompressor>
+  <xmpDM:audioSampleRate>3</xmpDM:audioSampleRate>
+  <xmpDM:duration rdf:parseType='Resource'>
+   <xmpDM:scale>23/10</xmpDM:scale>
+   <xmpDM:value>3</xmpDM:value>
+  </xmpDM:duration>
+  <xmpDM:fileDataRate>23/10</xmpDM:fileDataRate>
+  <xmpDM:releaseDate>2018-08-14T18:08:14+00:00</xmpDM:releaseDate>
+  <xmpDM:videoCompressor>H264</xmpDM:videoCompressor>
+  <xmpDM:videoFieldOrder>Signal Format</xmpDM:videoFieldOrder>
+  <xmpDM:videoFrameRate>2.3</xmpDM:videoFrameRate>
+  <xmpDM:videoFrameSize rdf:parseType='Resource'>
+   <stDim:h>2.3</stDim:h>
+   <stDim:unit>Measure Unit -  value</stDim:unit>
+   <stDim:w>2.3</stDim:w>
+  </xmpDM:videoFrameSize>
+  <xmpDM:videoPixelAspectRatio>23/10</xmpDM:videoPixelAspectRatio>
+ </rdf:Description>
+
+ <rdf:Description rdf:about=''
+  xmlns:xmpMM='http://ns.adobe.com/xap/1.0/mm/'>
+  <xmpMM:RenditionClass>Video Rendition</xmpMM:RenditionClass>
+  <xmpMM:VersionID>Video Version</xmpMM:VersionID>
+ </rdf:Description>
+</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+<?xpacket end='w'?>
