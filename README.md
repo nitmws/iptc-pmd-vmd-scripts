@@ -1,19 +1,25 @@
 # iptc-pmd-vmd-scripts
-Scripts for IPTC Photo and Video Metadata
 
-Here you can find scripts for processing IPTC Photo Metadata and IPTC Video Metadata Hub data:
+# Scripts for IPTC Photo and Video Metadata
 
-- folder photometadata provides them for the IPTC Photo Metadata standard
-- folder videometadata provides them for the IPTC Video Metadata Hub recommendation
+Here you can find scripts for processing IPTC Photo Metadata or IPTC Video Metadata Hub data:
 
-Currently these are only Python 3.5 (or higher) scripts.
+- folder photometadata: for the [IPTC Photo Metadata Standard](https://iptc.org/standards/photo-metadata/iptc-standard/)
+- folder videometadata: for the [IPTC Video Metadata Hub Recommendation](https://iptc.org/standards/video-metadata-hub/recommendation/)
 
-The scripts use the [exiftool](http://owl.phy.queensu.ca/~phil/exiftool/) software for embedding metadata to photo or video files, and retrieving them from there.
+The folders have README files with more specific information.
 
-# IPTC Metadata Standards
+Python scripts and Powershell scripts are available.
 
-- [IPTC Photo Metadata](https://iptc.org/standards/photo-metadata/iptc-standard/)
-- [IPTC Video Metadata Hub](https://iptc.org/standards/video-metadata-hub/recommendation/)
+The scripts use the [exiftool](http://owl.phy.queensu.ca/~phil/exiftool/) software for embedding metadata to photo or video files, or for retrieving it.
+
+# IPTC Standards
+
+The standards for metadata of photos or videos are developed and maintained by [IPTC](https://iptc.org), the global standards body for news media.
+
+# Author
+
+The scripts are created and maintained by Michael Steidl, the Lead of the IPTC [Photo Metadata](https://iptc.org/about-iptc/work-structure/#pmd) and [Video Metadata](https://iptc.org/about-iptc/work-structure/#vmd) Working Groups.
 
 # License 
 
