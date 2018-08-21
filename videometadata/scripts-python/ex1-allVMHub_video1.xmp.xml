@@ -682,7 +682,7 @@
     <rdf:li>Storyline Identifier value 2</rdf:li>
    </rdf:Bag>
   </Iptc4xmpExt:StorylineIdentifier>
-  <Iptc4xmpExt:StreamReady>Stream-ready</Iptc4xmpExt:StreamReady>
+  <Iptc4xmpExt:StreamReady>unknown</Iptc4xmpExt:StreamReady>
   <Iptc4xmpExt:SupplyChainSource>
    <rdf:Bag>
     <rdf:li rdf:parseType='Resource'>
@@ -760,7 +760,7 @@
     </rdf:li>
    </rdf:Bag>
   </Iptc4xmpExt:VideoShotType>
-  <Iptc4xmpExt:VisualColour>Visual Colour</Iptc4xmpExt:VisualColour>
+  <Iptc4xmpExt:VisualColour>colour</Iptc4xmpExt:VisualColour>
   <Iptc4xmpExt:WorkflowTag rdf:parseType='Resource'>
    <Iptc4xmpExt:CvId>CV-Term CV ID -  value</Iptc4xmpExt:CvId>
    <Iptc4xmpExt:CvTermId>CV-Term ID -  value</Iptc4xmpExt:CvTermId>
@@ -772,11 +772,11 @@
    <Iptc4xmpExt:CvTermRefinedAbout>Refined ´aboutness´ of the CV-Term -  value</Iptc4xmpExt:CvTermRefinedAbout>
   </Iptc4xmpExt:WorkflowTag>
   <Iptc4xmpExt:audioBitRate>3</Iptc4xmpExt:audioBitRate>
-  <Iptc4xmpExt:audioBitRateMode>Audio Bitrate Type</Iptc4xmpExt:audioBitRateMode>
+  <Iptc4xmpExt:audioBitRateMode>variable</Iptc4xmpExt:audioBitRateMode>
   <Iptc4xmpExt:audioBitsPerSample>3</Iptc4xmpExt:audioBitsPerSample>
   <Iptc4xmpExt:audioChannelCount>3</Iptc4xmpExt:audioChannelCount>
   <Iptc4xmpExt:videoBitRate>3</Iptc4xmpExt:videoBitRate>
-  <Iptc4xmpExt:videoBitRateMode>Video Bitrate Type</Iptc4xmpExt:videoBitRateMode>
+  <Iptc4xmpExt:videoBitRateMode>variable</Iptc4xmpExt:videoBitRateMode>
   <Iptc4xmpExt:videoDisplayAspectRatio>23/10</Iptc4xmpExt:videoDisplayAspectRatio>
   <Iptc4xmpExt:videoEncodingProfile>Video Profile</Iptc4xmpExt:videoEncodingProfile>
   <Iptc4xmpExt:videoStreamsCount>3</Iptc4xmpExt:videoStreamsCount>
@@ -871,8 +871,8 @@
  <rdf:Description rdf:about=''
   xmlns:stDim='http://ns.adobe.com/xap/1.0/sType/Dimensions#'
   xmlns:xmpDM='http://ns.adobe.com/xmp/1.0/DynamicMedia/'>
-  <xmpDM:audioChannelType>Audio Channel Layout</xmpDM:audioChannelType>
-  <xmpDM:audioCompressor>MP3</xmpDM:audioCompressor>
+  <xmpDM:audioChannelType>5.1</xmpDM:audioChannelType>
+  <xmpDM:audioCompressor>Audio Coding</xmpDM:audioCompressor>
   <xmpDM:audioSampleRate>3</xmpDM:audioSampleRate>
   <xmpDM:duration rdf:parseType='Resource'>
    <xmpDM:scale>23/10</xmpDM:scale>
@@ -880,8 +880,8 @@
   </xmpDM:duration>
   <xmpDM:fileDataRate>23/10</xmpDM:fileDataRate>
   <xmpDM:releaseDate>2018-08-14T18:08:14+00:00</xmpDM:releaseDate>
-  <xmpDM:videoCompressor>H264</xmpDM:videoCompressor>
-  <xmpDM:videoFieldOrder>Signal Format</xmpDM:videoFieldOrder>
+  <xmpDM:videoCompressor>Video Coding</xmpDM:videoCompressor>
+  <xmpDM:videoFieldOrder>progressive</xmpDM:videoFieldOrder>
   <xmpDM:videoFrameRate>2.3</xmpDM:videoFrameRate>
   <xmpDM:videoFrameSize rdf:parseType='Resource'>
    <stDim:h>2.3</stDim:h>
