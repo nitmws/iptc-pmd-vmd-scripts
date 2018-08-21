@@ -17,7 +17,7 @@ The scripts use the [exiftool](http://owl.phy.queensu.ca/~phil/exiftool/) softwa
 
 The standards for metadata of photos or videos are developed and maintained by [IPTC](https://iptc.org), the global standards body for news media.
 
-# Author
+# About
 
 The scripts are created and maintained by Michael Steidl, the Lead of the IPTC [Photo Metadata](https://iptc.org/about-iptc/work-structure/#pmd) and [Video Metadata](https://iptc.org/about-iptc/work-structure/#vmd) Working Groups.
 
