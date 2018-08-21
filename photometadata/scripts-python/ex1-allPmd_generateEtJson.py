@@ -1,29 +1,26 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-    This script generates all photo metadata properties defined by the IPTC Photo Metadata Standard.
+    This script generates all photo metadata properties defined by the IPTC Photo Metadata Standard 2017.1
     For this purpose a JSON document is generated - as file - which can be processed by the exiftool.
 
-    The values of the properties are set by the content of the IptcPMDpropValues.yml YAML file.
+    The values of the properties are set by the content of the ex1-allPmd_propValues.yml YAML file.
     The key of each YAML entry is the identifier of the property defined by exiftool.
-    The default file in this folder has values which reflect the name of the property.
+    The used YAML file has default values which reflect the name of each property.
 
 
 """
 import json
 import yaml
 
-
-# Adjust the name to your needs
-jsonOutputFp = "IPTC-PMD-etData-1.json"
+# Exiftool-JSON output file, adjust the name to your needs
+jsonOutputFp = "ex1-allPmd_etData.json"
 
 def generate_IPTCPMD_etJSON():
     print("START")
-    ipmdpropvalYamlfile = open('IptcPMDpropValues.yml', 'r', encoding="utf-8")
+    ipmdpropvalYamlfile = open('ex1-allPmd_propValues.yml', 'r', encoding="utf-8")
     ipmdpval = yaml.load(ipmdpropvalYamlfile)
     # print(ipmdpval)
-
-    # !!! Insert this code into a function generating IPTC PMD using Exiftool JSON - THIS IS RAW CODE
 
     pmd = {}
     pmd['Sourcefile'] = '*'

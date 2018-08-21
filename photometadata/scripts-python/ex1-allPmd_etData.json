@@ -1,0 +1,371 @@
+[
+    {
+        "XMP-photoshop:Credit": "Credit Line",
+        "IPTC:Contact": "Creator\u00b4s Contact Info",
+        "XMP-iptcExt:DigitalImageGUID": "Digital Image GUID",
+        "XMP-dc:Description": "Description",
+        "XMP-plus:ModelReleaseStatus": "Not Applicable",
+        "XMP-photoshop:City": "City (legacy)",
+        "IPTC:SubjectReference": [
+            "Subject Code - value 1",
+            "Subject Code value 2"
+        ],
+        "IPTC:Credit": "Credit Line",
+        "XMP-dc:Rights": "Copyright Notice",
+        "XMP-photoshop:Instructions": "Instructions",
+        "XMP-iptcExt:Event": "Event",
+        "XMP-iptcCore:SubjectCode": [
+            "Subject Code - value 1",
+            "Subject Code value 2"
+        ],
+        "IPTC:Keywords": [
+            "Keywords - value 1",
+            "Keywords value 2"
+        ],
+        "XMP-iptcExt:DigitalSourceType": "Digital Source Type",
+        "XMP-iptcExt:ProductInImage": [
+            {
+                "ProductDescription": "Description -  value [1]",
+                "ProductName": "Name -  value [1]",
+                "ProductGTIN": "GTIN -  value [1]"
+            },
+            {
+                "ProductDescription": "Description -  value [2]",
+                "ProductName": "Name -  value [2]",
+                "ProductGTIN": "GTIN -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:OrganisationInImageName": [
+            "Name of Organisation Featured in the Image - value 1",
+            "Name of Organisation Featured in the Image value 2"
+        ],
+        "XMP-iptcExt:MaxAvailHeight": 3,
+        "IPTC:CopyrightNotice": "Copyright Notice",
+        "XMP-plus:PropertyReleaseStatus": "Not Applicable",
+        "XMP-iptcCore:Scene": [
+            "Scene Code - value 1",
+            "Scene Code value 2"
+        ],
+        "XMP-iptcExt:AdditionalModelInformation": "Additional Model Information",
+        "XMP-photoshop:DateCreated": "2018:08:14 18:08:14+00:00",
+        "XMP-iptcCore:CreatorContactInfo": {
+            "CiAdrPcode": "Postal Code -  value",
+            "CiAdrCity": "City -  value",
+            "CiAdrExtadr": "Address -  value",
+            "CiUrlWork": "Web URL(s) -  value",
+            "CiEmailWork": "Email address(es) -  value",
+            "CiTelWork": "Phone number(s) -  value",
+            "CiAdrRegion": "State/Province -  value",
+            "CiAdrCtry": "Country -  value"
+        },
+        "XMP-iptcCore:IntellectualGenre": "Intellectual Genre",
+        "XMP-plus:Licensor": [
+            {
+                "LicensorID": "Identifier -  value [1]",
+                "LicensorName": "Name -  value [1]"
+            },
+            {
+                "LicensorID": "Identifier -  value [2]",
+                "LicensorName": "Name -  value [2]"
+            }
+        ],
+        "XMP-plus:ImageSupplierImageID": "Image Supplier Image ID",
+        "IFD0:Artist": "Creator",
+        "XMP-photoshop:Source": "Source",
+        "XMP-plus:PropertyReleaseID": [
+            "Property Release Id - value 1",
+            "Property Release Id value 2"
+        ],
+        "XMP-plus:ImageSupplier": [
+            {
+                "ImageSupplierName": "Name -  value [1]",
+                "ImageSupplierID": "Identifier -  value [1]"
+            },
+            {
+                "ImageSupplierName": "Name -  value [2]",
+                "ImageSupplierID": "Identifier -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:Genre": [
+            {
+                "CvTermRefinedAbout": "Refined \u00b4about\u00b4 Relationship of the CV-Term -  value [1]",
+                "CvId": "CV-Term CV ID -  value [1]",
+                "CvTermName": "CV-Term name -  value [1]",
+                "CvTermId": "CV-Term ID -  value [1]"
+            },
+            {
+                "CvTermRefinedAbout": "Refined \u00b4about\u00b4 Relationship of the CV-Term -  value [2]",
+                "CvId": "CV-Term CV ID -  value [2]",
+                "CvTermName": "CV-Term name -  value [2]",
+                "CvTermId": "CV-Term ID -  value [2]"
+            }
+        ],
+        "XMP-xmpRights:WebStatement": "Web Statement of Rights",
+        "IPTC:By-lineTitle": "Creator\u00b4s jobtitle",
+        "XMP-plus:ModelReleaseID": [
+            "Model Release Id - value 1",
+            "Model Release Id value 2"
+        ],
+        "IPTC:City": "City (legacy)",
+        "IPTC:ObjectName": "Title",
+        "XMP-dc:Subject": [
+            "Keywords - value 1",
+            "Keywords value 2"
+        ],
+        "XMP-xmpRights:UsageTerms": "Rights Usage Terms",
+        "XMP-iptcExt:MaxAvailWidth": 3,
+        "IPTC:Writer-Editor": "Description Writer",
+        "EXIF:ImageDescription": "Description",
+        "XMP-iptcExt:PersonInImageWDetails": [
+            {
+                "PersonCharacteristic": [
+                    {
+                        "CvTermRefinedAbout": "Refined \u00b4about\u00b4 Relationship of the CV-Term -  value [1]",
+                        "CvId": "CV-Term CV ID -  value [1]",
+                        "CvTermName": "CV-Term name -  value [1]",
+                        "CvTermId": "CV-Term ID -  value [1]"
+                    },
+                    {
+                        "CvTermRefinedAbout": "Refined \u00b4about\u00b4 Relationship of the CV-Term -  value [2]",
+                        "CvId": "CV-Term CV ID -  value [2]",
+                        "CvTermName": "CV-Term name -  value [2]",
+                        "CvTermId": "CV-Term ID -  value [2]"
+                    }
+                ],
+                "PersonId": [
+                    "Identifier -  value 1  [1]",
+                    "Identifier -  value 2 [1]"
+                ],
+                "PersonDescription": "Description -  value [1]",
+                "PersonName": "Name -  value [1]"
+            },
+            {
+                "PersonCharacteristic": [
+                    {
+                        "CvTermRefinedAbout": "Refined \u00b4about\u00b4 Relationship of the CV-Term -  value [1]",
+                        "CvId": "CV-Term CV ID -  value [1]",
+                        "CvTermName": "CV-Term name -  value [1]",
+                        "CvTermId": "CV-Term ID -  value [1]"
+                    },
+                    {
+                        "CvTermRefinedAbout": "Refined \u00b4about\u00b4 Relationship of the CV-Term -  value [2]",
+                        "CvId": "CV-Term CV ID -  value [2]",
+                        "CvTermName": "CV-Term name -  value [2]",
+                        "CvTermId": "CV-Term ID -  value [2]"
+                    }
+                ],
+                "PersonId": [
+                    "Identifier -  value 1  [2]",
+                    "Identifier -  value 2 [2]"
+                ],
+                "PersonDescription": "Description -  value [2]",
+                "PersonName": "Name -  value [2]"
+            }
+        ],
+        "IPTC:Sub-location": "Sublocation (legacy)",
+        "IPTC:Headline": "Headline",
+        "IPTC:Country-PrimaryLocationCode": "Country Code (legacy)",
+        "IPTC:TimeCreated": "18:08:14+00:00",
+        "IPTC:DateCreated": "2018:08:14",
+        "IPTC:Caption-Abstract": "Description",
+        "XMP-plus:ImageCreator": [
+            {
+                "ImageCreatorID": "Identifier -  value [1]",
+                "ImageCreatorName": "Name -  value [1]"
+            },
+            {
+                "ImageCreatorID": "Identifier -  value [2]",
+                "ImageCreatorName": "Name -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:ArtworkOrObject": [
+            {
+                "AOContributionDescription": "Contribution Description -  value [1]",
+                "AOSourceInvURL": "Source Inventory URL -  value [1]",
+                "AOSource": "Source -  value [1]",
+                "AOCurrentCopyrightOwnerName": "Current Copyright Owner Name -  value [1]",
+                "AOCurrentLicensorId": "Current Licensor ID -  value [1]",
+                "AOCreator": [
+                    "Creator -  value 1  [1]",
+                    "Creator -  value 2 [1]"
+                ],
+                "AOCreatorId": [
+                    "Creator ID -  value 1  [1]",
+                    "Creator ID -  value 2 [1]"
+                ],
+                "AOSourceInvNo": "Source Inventory Number -  value [1]",
+                "AODateCreated": "2018:08:14 18:08:14+00:00",
+                "AOTitle": "Title -  value [1]",
+                "AOPhysicalDescription": "Physical Description -  value [1]",
+                "AOCopyrightNotice": "Copyright Notice -  value [1]",
+                "AOContentDescription": "Content Description -  value [1]",
+                "AOCurrentLicensorName": "Current Licensor Name -  value [1]",
+                "AOCircaDateCreated": "Circa Date Created -  value [1]",
+                "AOCurrentCopyrightOwnerId": "Current Copyright Owner ID -  value [1]",
+                "AOStylePeriod": [
+                    "Style Period -  value 1  [1]",
+                    "Style Period -  value 2 [1]"
+                ]
+            },
+            {
+                "AOContributionDescription": "Contribution Description -  value [2]",
+                "AOSourceInvURL": "Source Inventory URL -  value [2]",
+                "AOSource": "Source -  value [2]",
+                "AOCurrentCopyrightOwnerName": "Current Copyright Owner Name -  value [2]",
+                "AOCurrentLicensorId": "Current Licensor ID -  value [2]",
+                "AOCreator": [
+                    "Creator -  value 1  [2]",
+                    "Creator -  value 2 [2]"
+                ],
+                "AOCreatorId": [
+                    "Creator ID -  value 1  [2]",
+                    "Creator ID -  value 2 [2]"
+                ],
+                "AOSourceInvNo": "Source Inventory Number -  value [2]",
+                "AODateCreated": "2018:08:14 18:08:14+00:00",
+                "AOTitle": "Title -  value [2]",
+                "AOPhysicalDescription": "Physical Description -  value [2]",
+                "AOCopyrightNotice": "Copyright Notice -  value [2]",
+                "AOContentDescription": "Content Description -  value [2]",
+                "AOCurrentLicensorName": "Current Licensor Name -  value [2]",
+                "AOCircaDateCreated": "Circa Date Created -  value [2]",
+                "AOCurrentCopyrightOwnerId": "Current Copyright Owner ID -  value [2]",
+                "AOStylePeriod": [
+                    "Style Period -  value 1  [2]",
+                    "Style Period -  value 2 [2]"
+                ]
+            }
+        ],
+        "IPTC:Source": "Source",
+        "XMP-iptcExt:PersonInImage": [
+            "Person Shown in the Image - value 1",
+            "Person Shown in the Image value 2"
+        ],
+        "XMP-dc:Creator": [
+            "Creator - value 1",
+            "Creator value 2"
+        ],
+        "XMP-photoshop:AuthorsPosition": "Creator\u00b4s jobtitle",
+        "XMP-plus:MinorModelAgeDisclosure": "Age 25 or Over",
+        "XMP-photoshop:Headline": "Headline",
+        "XMP-iptcExt:EmbdEncRightsExpr": [
+            {
+                "EncRightsExpr": "Encoded Rights Expression -  value [1]",
+                "RightsExprLangId": "Rights Expression Language ID -  value [1]",
+                "RightsExprEncType": "Encoding type -  value [1]"
+            },
+            {
+                "EncRightsExpr": "Encoded Rights Expression -  value [2]",
+                "RightsExprLangId": "Rights Expression Language ID -  value [2]",
+                "RightsExprEncType": "Encoding type -  value [2]"
+            }
+        ],
+        "Sourcefile": "*",
+        "IPTC:Country-PrimaryLocationName": "Country (legacy)",
+        "IPTC:Province-State": "Province or State (legacy)",
+        "XMP-photoshop:TransmissionReference": "Job Id",
+        "XMP-photoshop:CaptionWriter": "Description Writer",
+        "IPTC:ObjectAttributeReference": "Intellectual Genre",
+        "XMP-iptcCore:Location": "Sublocation (legacy)",
+        "IPTC:SpecialInstructions": "Instructions",
+        "XMP-plus:CopyrightOwner": [
+            {
+                "CopyrightOwnerID": "Identifier -  value [1]",
+                "CopyrightOwnerName": "Name -  value [1]"
+            },
+            {
+                "CopyrightOwnerID": "Identifier -  value [2]",
+                "CopyrightOwnerName": "Name -  value [2]"
+            }
+        ],
+        "XMP-iptcCore:CountryCode": "Country Code (legacy)",
+        "XMP-iptcExt:AboutCvTerm": [
+            {
+                "CvTermRefinedAbout": "Refined \u00b4about\u00b4 Relationship of the CV-Term -  value [1]",
+                "CvId": "CV-Term CV ID -  value [1]",
+                "CvTermName": "CV-Term name -  value [1]",
+                "CvTermId": "CV-Term ID -  value [1]"
+            },
+            {
+                "CvTermRefinedAbout": "Refined \u00b4about\u00b4 Relationship of the CV-Term -  value [2]",
+                "CvId": "CV-Term CV ID -  value [2]",
+                "CvTermName": "CV-Term name -  value [2]",
+                "CvTermId": "CV-Term ID -  value [2]"
+            }
+        ],
+        "XMP-iptcExt:LocationCreated": {
+            "LocationName": "Location Name -  value",
+            "WorldRegion": "World Region -  value",
+            "CountryName": "Country Name -  value",
+            "LocationId": "Location Identifier -  value",
+            "Sublocation": "Sublocation -  value",
+            "City": "City -  value",
+            "CountryCode": "Country ISO-Code -  value",
+            "ProvinceState": "Province or State -  value"
+        },
+        "XMP-iptcExt:RegistryID": [
+            {
+                "RegItemId": "Item Id -  value [1]",
+                "RegEntryRole": "Role -  value [1]",
+                "RegOrgId": "Organisation Id -  value [1]"
+            },
+            {
+                "RegItemId": "Item Id -  value [2]",
+                "RegEntryRole": "Role -  value [2]",
+                "RegOrgId": "Organisation Id -  value [2]"
+            }
+        ],
+        "XMP-dc:Title": "Title",
+        "IPTC:By-line": [
+            "Creator - value 1",
+            "Creator value 2"
+        ],
+        "XMP-iptcExt:LocationShown": [
+            {
+                "LocationName": "Location Name -  value [1]",
+                "WorldRegion": "World Region -  value [1]",
+                "CountryName": "Country Name -  value [1]",
+                "LocationId": "Location Identifier -  value [1]",
+                "Sublocation": "Sublocation -  value [1]",
+                "City": "City -  value [1]",
+                "CountryCode": "Country ISO-Code -  value [1]",
+                "ProvinceState": "Province or State -  value [1]"
+            },
+            {
+                "LocationName": "Location Name -  value [2]",
+                "WorldRegion": "World Region -  value [2]",
+                "CountryName": "Country Name -  value [2]",
+                "LocationId": "Location Identifier -  value [2]",
+                "Sublocation": "Sublocation -  value [2]",
+                "City": "City -  value [2]",
+                "CountryCode": "Country ISO-Code -  value [2]",
+                "ProvinceState": "Province or State -  value [2]"
+            }
+        ],
+        "IPTC:OriginalTransmissionReference": "Job Id",
+        "XMP-iptcExt:ModelAge": [
+            3,
+            3
+        ],
+        "IFD0:Copyright": "Copyright Notice",
+        "XMP-photoshop:State": "Province or State (legacy)",
+        "XMP-iptcExt:LinkedEncRightsExpr": [
+            {
+                "LinkedRightsExpr": "Link to Encoded Rights Expression -  value [1]",
+                "RightsExprLangId": "Rights Expression Language ID -  value [1]",
+                "RightsExprEncType": "Encoding type -  value [1]"
+            },
+            {
+                "LinkedRightsExpr": "Link to Encoded Rights Expression -  value [2]",
+                "RightsExprLangId": "Rights Expression Language ID -  value [2]",
+                "RightsExprEncType": "Encoding type -  value [2]"
+            }
+        ],
+        "XMP-xmp:Rating": 2.3,
+        "XMP-iptcExt:OrganisationInImageCode": [
+            "Code of Organisation Featured in the Image - value 1",
+            "Code of Organisation Featured in the Image value 2"
+        ],
+        "XMP-photoshop:Country": "Country (legacy)"
+    }
+]

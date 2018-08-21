@@ -1,10 +1,11 @@
 ﻿<#
-    IPTC Photo Metadata - script to create a JSON file for Exiftool with all IPTC properties populated
+    IPTC Photo Metadata - script to create a JSON file for Exiftool 
+    with all properties of the IPTC Photo Metadata Standard 2017.1 populated
 #>
 
 # ********** Intro ********************************************************
 # ***** Parameters
-$jsonOutputFp = "IPTC-PMD-etData-1.json" # JSON output file path
+$jsonOutputFp = "ex1-allPmd_etData.json" # JSON output file path
 
 [string]$valStr = "" # string representation of the property value
 [int]$valInt = -1 # integer representation of the property value
